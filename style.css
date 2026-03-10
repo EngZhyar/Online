@@ -1,0 +1,161 @@
+body{
+font-family: Arial;
+background:#f4f4f4;
+margin:0;
+padding:0;
+display:flex;
+justify-content:center;
+}
+
+.container{
+width:600px;
+margin-top:40px;
+}
+
+h1{
+text-align:center;
+margin-bottom:20px;
+}
+
+#search{
+width:100%;
+padding:10px;
+margin-bottom:20px;
+font-size:16px;
+border-radius:6px;
+border:1px solid #ccc;
+}
+
+/* GRID LAYOUT */
+.list-item{
+background:white;
+padding:15px;
+text-align:center;
+cursor:pointer;
+border-radius:8px;
+box-shadow:0 4px 10px rgba(0,0,0,0.1);
+transition: all 0.25s ease;
+font-weight:bold;
+}
+
+
+#list{
+display:grid;
+grid-template-columns: repeat(3, 1fr);
+gap:5px;
+}
+
+/* LIST ITEMS */
+
+.list-item{
+background:white;
+padding:20px;
+text-align:center;
+cursor:pointer;
+border-radius:8px;
+box-shadow:0 4px 10px rgba(0,0,0,0.1);
+transition: all 0.25s ease;
+font-weight:bold;
+}
+
+/* HOVER ANIMATION */
+
+.list-item:hover{
+transform:translateY(-5px) scale(1.05);
+box-shadow:0 8px 20px rgba(0,0,0,0.2);
+background:#f0f0f0;
+}
+
+/* POPUP */
+
+.popup{
+display:none;
+background:white;
+padding:25px;
+border-radius:10px;
+box-shadow:0 10px 30px rgba(0,0,0,0.3);
+animation: popupFade 0.4s ease;
+}
+
+/* POPUP ANIMATION */
+
+@keyframes popupFade{
+from{
+opacity:0;
+transform:scale(0.9);
+}
+to{
+opacity:1;
+transform:scale(1);
+}
+}
+
+.phone{
+display:flex;
+justify-content:space-between;
+align-items:center;
+margin:10px 0;
+}
+
+button{
+padding:6px 12px;
+cursor:pointer;
+border:none;
+background:#333;
+color:white;
+border-radius:5px;
+transition:0.2s;
+}
+
+button:hover{
+background:#555;
+}
+
+.status-active{
+color:green;
+font-weight:bold;
+}
+
+.status-deactive{
+color:red;
+font-weight:bold;
+}
+
+a{
+color:#0077ff;
+text-decoration:none;
+font-weight:bold;
+}
+
+a:hover{
+text-decoration:underline;
+}
+
+
+/* LOADING SCREEN */
+
+#loadingScreen{
+position:fixed;
+top:0;
+left:0;
+width:100%;
+height:100%;
+background:#111;
+color:white;
+display:flex;
+justify-content:center;
+align-items:center;
+font-size:40px;
+font-weight:bold;
+z-index:9999;
+animation: fadeOut 1s ease 2s forwards;
+}
+
+/* fade animation */
+
+@keyframes fadeOut{
+to{
+opacity:0;
+visibility:hidden;
+}
+}

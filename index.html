@@ -1,0 +1,58 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Places Finder</title>
+
+<link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+<div id="loadingScreen">
+<h1 id="loadingText"></h1></div>
+
+
+<div class="container">
+
+<h1>Erbil</h1>
+
+<input type="text" id="search" placeholder="Search...">
+
+<div id="list"></div>
+
+<div id="popup" class="popup">
+
+<h2 id="popupName"></h2>
+
+<p id="owner">ناو</p>
+
+<div class="phone">
+<span id="phone1"></span>
+<button id="copy1">Copy</button>
+</div>
+
+<div class="phone">
+<span id="phone2"></span>
+<button id="copy2">Copy</button>
+</div>
+
+<p>
+Location: 
+<a id="mapLink" target="_blank">CLICK</a>
+</p>
+
+<p id="status"></p>
+
+<button onclick="goBack()">Back</button>
+
+</div>
+
+</div>
+
+<script src="script.js"></script>
+
+</body>
+</html>
