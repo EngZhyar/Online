@@ -17,7 +17,7 @@ text-align:center;
 margin-bottom:20px;
 }
 #search{
-width:100%;
+width:80%;
 padding:12px;
 margin-bottom:20px;
 font-size:16px;
@@ -42,6 +42,7 @@ font-weight:bold;
 display:grid;
 grid-template-columns: repeat(auto-fit, minmax(120px,1fr));
 gap:5px;
+padding-left: 5px;
 }
 
 /* LIST ITEMS */
