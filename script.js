@@ -70,7 +70,7 @@ function showDetails(index){
 const item=data[index];
 
 document.getElementById("popupName").innerText=item.name;
-document.getElementById("owner").innerText="Owner: "+item.owner;
+document.getElementById("owner").innerText="Name: "+item.owner;
 
 document.getElementById("phone1").innerText="Phone No. 1: "+item.phone1;
 document.getElementById("phone2").innerText="Phone No. 2: "+item.phone2;
@@ -154,5 +154,6 @@ setTimeout(function(){
 document.getElementById("loadingScreen").style.display="none";
 
 },3000);
+
 
 };
