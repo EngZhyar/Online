@@ -43,7 +43,7 @@ status:"active"
 
   ,
 {
-name:"ararat hotel",
+name:"Ararat Hotel",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -54,7 +54,7 @@ status:"active"
 
 ,
 {
-name:"ad hotel 1",
+name:"AD Hotel 1",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -66,7 +66,7 @@ status:"active"
 
   ,
 {
-name:"ad motel 2",
+name:"AD Motel 2",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -77,7 +77,7 @@ status:"active"
   
 ,
 {
-name:"Blue rose motel",
+name:"Blue Rose Motel",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -102,7 +102,7 @@ status:"active"
   
 ,
 {
-name:"qalb almulk",
+name:"Qalb Almulk",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -150,7 +150,7 @@ status:"active"
   
 ,
 {
-name:"Zarawa company",
+name:"Zarawa Company",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -162,7 +162,7 @@ status:"active"
 
   ,
 {
-name:"pop cafe",
+name:"Pop Cafe",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -174,7 +174,7 @@ status:"active"
 
 ,
 {
-name:"Rodina hotel",
+name:"Rodina Hotel",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -186,7 +186,7 @@ status:"active"
   
 ,
 {
-name:"Golden night",
+name:"Golden Night",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -231,22 +231,14 @@ status:"active"
 }
 ,
 {
-name:"omer tank",
+name:"Omer Tank",
 owner:"",
 phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/Y8EnuuMNeEXjfxcC6",
 status:"active"
 }
-,
-{
-name:"pirdawd",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"",
-status:"active"
-}
+
 ,
 {
 name:"Qalay Iskan",
@@ -265,15 +257,7 @@ phone2:" ",
 location:"https://maps.app.goo.gl/XWDcunjxiSQ2cHfw6",
 status:"active"
 }
-,
-{
-name:"kinam hotel",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"",
-status:"active"
-}
+
 ,
 {
 name:"Washnton Hotel",
@@ -285,7 +269,7 @@ status:"active"
 }
 ,
 {
-name:"bahare kar shorsh",
+name:"Bahare Kar Shorsh",
 owner:"",
 phone1:"+964 772 171 8657",
 phone2:" ",
@@ -294,7 +278,7 @@ status:"active"
 }
 ,
 {
-name:"Najm Iskan cafe",
+name:"Najm Iskan Cafe",
 owner:"bhrnk",
 phone1:"+964 770 129 9532",
 phone2:" ",
@@ -303,7 +287,7 @@ status:"active"
 }
 ,
 {
-name:"Male gashtearan",
+name:"Male Gashtearan",
 owner:"",
 phone1:"+964 750 853 3333",
 phone2:" ",
@@ -312,27 +296,19 @@ status:"active"
 }
 ,
 {
-name:"halqa nadafa",
+name:"Halqa Nadafa",
 owner:"",
 phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/8TRaeD4HyBpd7BL3A",
 status:"active"
 }
-,
-{
-name:"Alsyndian",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"",
-status:"active"
-}
+
 
 
 ,
 {
-name:"mam concret",
+name:"Mam Concret",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -344,7 +320,7 @@ status:"active"
 
 ,
 {
-name:"Detail company",
+name:"Detail Company",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -352,31 +328,9 @@ location:"https://maps.app.goo.gl/dQiPGXa8sMB3fsmE8",
 status:"active"
 }
 
-
-
 ,
 {
-name:"",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"",
-status:"active"
-}
-  
-,
-{
-name:"",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"",
-status:"active"
-}
-  
-,
-{
-name:"",
+name:"Pirdawd",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -384,31 +338,9 @@ location:"",
 status:"active"
 }
 
-  
 ,
 {
-name:"",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"",
-status:"active"
-}
-
-  
-,
-{
-name:"",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"",
-status:"active"
-}
-  
-,
-{
-name:"",
+name:"Kinam Hotel",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -417,12 +349,15 @@ status:"active"
 }
 
 
-
-
-
-
-
-
+,
+{
+name:"Alsyndian",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
 
 
 
@@ -556,6 +491,7 @@ document.getElementById("loadingScreen").style.display="none";
 
 
 };
+
 
 
 
