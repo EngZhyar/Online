@@ -11,7 +11,7 @@ status:"active"
 }
 ,
 {
-name:"Haware Hawler",
+name:"Haware Hawler 2 (Camp)",
 owner:"Nawar IT manager",
 phone1:"+964 783 577 9253",
 phone2:" ",
@@ -102,11 +102,11 @@ status:"active"
   
 ,
 {
-name:"",
+name:"qalb almulk",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"",
+location:"https://maps.app.goo.gl/WzGC2TkVg1R3MxT58",
 status:"active"
 }
 
@@ -114,16 +114,103 @@ status:"active"
 
   ,
 {
-name:"",
+name:"Ice Cream Scoop",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"",
+location:"https://maps.app.goo.gl/6fpF9GBEAn14ZTxHA",
 status:"active"
 }
 
 
   
+,
+{
+name:"Amas Hypermarket",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/ygJKRKMCAQohKGY7A",
+status:"active"
+}
+
+
+
+  ,
+{
+name:"Khalat",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/C3zcsRdjhUUkLP137",
+status:"active"
+}
+
+
+  
+,
+{
+name:"Zarawa company",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/ngXUh8XCRyYnDDUV8?g_st=aw",
+status:"active"
+}
+
+
+
+  ,
+{
+name:"pop cafe",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/cX3T63m87cdsqY2L9",
+status:"active"
+}
+
+
+
+,
+{
+name:"Rodina hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/NtVkjxY92DHb3P3A6",
+status:"active"
+}
+
+
+  
+,
+{
+name:"Golden night",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/4XVrBgjc2637DcBFA",
+status:"active"
+}
+,
+{
+name:"Samad Resturant",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/DKDEhn7tkrMacXgN9",
+status:"active"
+}
+,
+{
+name:"Koshki Rashid",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/RgH2wmHgNNJQ8qPv7",
+status:"active"
+}
 ,
 {
 name:"",
@@ -133,21 +220,6 @@ phone2:" ",
 location:"",
 status:"active"
 }
-
-
-
-  ,
-{
-name:"",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"",
-status:"active"
-}
-
-
-  
 ,
 {
 name:"",
@@ -157,10 +229,7 @@ phone2:" ",
 location:"",
 status:"active"
 }
-
-
-
-  ,
+,
 {
 name:"",
 owner:"",
@@ -169,11 +238,96 @@ phone2:" ",
 location:"",
 status:"active"
 }
-
-
-
-
-  
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
 
 ];
 
@@ -300,4 +454,5 @@ document.getElementById("loadingScreen").style.display="none";
 
 
 };
+
 
