@@ -213,34 +213,34 @@ status:"active"
 }
 ,
 {
-name:"",
+name:"Rihat Hotel",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"",
+location:"https://maps.app.goo.gl/eKqh4RGZbwXiU7sP7",
 status:"active"
 }
 ,
 {
-name:"",
+name:"Skye hamrin",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"",
+location:"https://maps.app.goo.gl/Xn8pExEzvsiEV8fe7",
 status:"active"
 }
 ,
 {
-name:"",
+name:"omer tank",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"",
+location:"https://maps.app.goo.gl/Y8EnuuMNeEXjfxcC6",
 status:"active"
 }
 ,
 {
-name:"",
+name:"pirdawd",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -454,5 +454,6 @@ document.getElementById("loadingScreen").style.display="none";
 
 
 };
+
 
 
