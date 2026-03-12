@@ -1,15 +1,5 @@
 const data = [
 
-{
-name:"Cafe",
-owner:"Ali",
-phone1:"0750 123 4567",
-phone2:"",
-location:"https://maps.google.com/?q=33.3152,44.3661",
-status:"Deactive 2/2/2026"
-},
-
-
 
 {
 name:"Calibration Modern",
@@ -29,8 +19,161 @@ location:"https://maps.app.goo.gl/8MhFnncGykc6kaEh6",
 status:"active"
 }
 
+,
+{
+name:"Oscar hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/ACkEhvGuMdSwQXY28",
+status:"active"
+}
+
+,
+{
+name:"Vote 2 hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/SE7BHmV3u33spxHJ8",
+status:"active"
+}
 
 
+
+  ,
+{
+name:"ararat hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/sp64ry1Jx9NvwSGb9",
+status:"active"
+}
+
+
+,
+{
+name:"ad hotel 1",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/EXwEQ19zhzosbX7g9",
+status:"active"
+}
+
+
+
+  ,
+{
+name:"ad motel 2",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/JoA1HgcsHmDMQSgM7",
+status:"active"
+}
+
+  
+,
+{
+name:"Blue rose motel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/zsBsVKvysybxeesC6",
+status:"active"
+}
+
+
+
+  ,
+{
+name:"Dwnay Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/GYWpKJd4oooZqbSt7",
+status:"active"
+}
+
+
+
+  
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+
+
+  ,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+
+  
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+
+
+  ,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+
+  
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+
+
+  ,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+
+
+
+  
 
 ];
 
@@ -157,3 +300,4 @@ document.getElementById("loadingScreen").style.display="none";
 
 
 };
+
