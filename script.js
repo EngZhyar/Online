@@ -23,7 +23,7 @@ status:"active"
 {
 name:"Oscar hotel",
 owner:"",
-phone1:"",
+phone1:"+964 750 420 1089",
 phone2:" ",
 location:"https://maps.app.goo.gl/ACkEhvGuMdSwQXY28",
 status:"active"
@@ -253,7 +253,7 @@ name:"Qalay Iskan",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"",
+location:"https://maps.app.goo.gl/PNLYTtY9xXCKFxn66",
 status:"active"
 }
 ,
@@ -285,13 +285,75 @@ status:"active"
 }
 ,
 {
-name:"",
+name:"bahare kar shorsh",
+owner:"",
+phone1:"+964 772 171 8657",
+phone2:" ",
+location:"https://maps.app.goo.gl/qQJegrF4VCmQfgPA8",
+status:"active"
+}
+,
+{
+name:"Najm Iskan cafe",
+owner:"bhrnk",
+phone1:"+964 770 129 9532",
+phone2:" ",
+location:"https://maps.app.goo.gl/Sp9aQdvNndkBqWfq5",
+status:"active"
+}
+,
+{
+name:"Male gashtearan",
+owner:"",
+phone1:"+964 750 853 3333",
+phone2:" ",
+location:"https://maps.app.goo.gl/RsHBJRckY6AXTA4q7",
+status:"active"
+}
+,
+{
+name:"halqa nadafa",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/8TRaeD4HyBpd7BL3A",
+status:"active"
+}
+,
+{
+name:"Alsyndian",
 owner:"",
 phone1:"",
 phone2:" ",
 location:"",
 status:"active"
 }
+
+
+,
+{
+name:"mam concret",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/AfmANnU6cq18mpBA6",
+status:"active"
+}
+
+
+
+,
+{
+name:"Detail company",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/dQiPGXa8sMB3fsmE8",
+status:"active"
+}
+
+
+
 ,
 {
 name:"",
@@ -301,6 +363,7 @@ phone2:" ",
 location:"",
 status:"active"
 }
+  
 ,
 {
 name:"",
@@ -310,15 +373,7 @@ phone2:" ",
 location:"",
 status:"active"
 }
-,
-{
-name:"",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"",
-status:"active"
-}
+  
 ,
 {
 name:"",
@@ -329,6 +384,53 @@ location:"",
 status:"active"
 }
 
+  
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+  
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+  
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
 ];
 
 window.onload = function(){
@@ -454,6 +556,7 @@ document.getElementById("loadingScreen").style.display="none";
 
 
 };
+
 
 
 
