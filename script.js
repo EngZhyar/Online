@@ -249,7 +249,7 @@ status:"active"
 }
 ,
 {
-name:"",
+name:"Qalay Iskan",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -258,7 +258,16 @@ status:"active"
 }
 ,
 {
-name:"",
+name:"Sherzad",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/XWDcunjxiSQ2cHfw6",
+status:"active"
+}
+,
+{
+name:"kinam hotel",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -267,20 +276,11 @@ status:"active"
 }
 ,
 {
-name:"",
-owner:"",
-phone1:"",
+name:"Washnton Hotel",
+owner:"Dlovan",
+phone1:"+964 750 422 0123",
 phone2:" ",
-location:"",
-status:"active"
-}
-,
-{
-name:"",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"",
+location:"https://maps.app.goo.gl/PXN3yPVfCVr5suuZ9",
 status:"active"
 }
 ,
@@ -454,6 +454,7 @@ document.getElementById("loadingScreen").style.display="none";
 
 
 };
+
 
 
 
