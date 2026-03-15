@@ -328,6 +328,107 @@ location:"https://maps.app.goo.gl/dQiPGXa8sMB3fsmE8",
 status:"active"
 }
 
+
+,
+{
+name:"King school wazeran",
+owner:"Ziad Surchi",
+phone1:"+964 750 363 3454",
+phone2:" ",
+location:"https://www.google.com/maps?q=36.20460510253906,43.98479080200195&z=17&hl=en",
+status:"active"
+}
+
+
+,
+{
+name:"King School",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/mwWHMNqsUhM5Jauj6",
+status:"active"
+}
+
+
+
+
+
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+
+
+
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+
+
+
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+
+,
+{
+name:"",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"",
+status:"active"
+}
+
+
+
+
+
+
+  
 ,
 {
 name:"Pirdawd",
