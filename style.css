@@ -137,7 +137,6 @@ text-decoration:underline;
 
 
 /* LOADING SCREEN */
-
 #loadingScreen{
 position:fixed;
 top:0;
@@ -145,22 +144,36 @@ left:0;
 width:100%;
 height:100%;
 background:#111;
-color:white;
 display:flex;
 justify-content:center;
 align-items:center;
-font-size:40px;
-font-weight:bold;
 z-index:9999;
-animation: fadeOut 1s ease 2s forwards;
+animation: fadeOut 1s ease 3s forwards;
 }
 
-/* fade animation */
+#introImage{
+width:200px;
+max-width:80%;
+opacity:0;
+animation: zoomFade 2s ease forwards;
+}
 
+/* image animation */
+@keyframes zoomFade{
+0%{
+opacity:0;
+transform:scale(0.5);
+}
+100%{
+opacity:1;
+transform:scale(1);
+}
+}
+
+/* screen fade out */
 @keyframes fadeOut{
 to{
 opacity:0;
 visibility:hidden;
 }
 }
-
