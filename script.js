@@ -275,6 +275,7 @@ phone2:" ",
 location:"https://maps.app.goo.gl/WzGC2TkVg1R3MxT58",
 status:"active"
 }
+  
 
   ,{
 name:"Qalay Iskan",
@@ -286,6 +287,83 @@ status:"active"
 },
 
 //r
+
+{
+name:"Rodina Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/NtVkjxY92DHb3P3A6",
+status:"active"
+}
+,
+  {
+name:"Rihat Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/eKqh4RGZbwXiU7sP7",
+status:"deactive  24/3/2026"
+},
+
+//s
+{
+name:"Samad Resturant",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/DKDEhn7tkrMacXgN9",
+status:"active"
+}
+,
+  {
+name:"Skye hamrin",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Xn8pExEzvsiEV8fe7",
+status:"active"
+}
+,
+{
+name:"Sherzad",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/XWDcunjxiSQ2cHfw6",
+status:"active"
+},
+
+//v
+
+
+{
+name:"Vote 2 hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/SE7BHmV3u33spxHJ8",
+status:"active"
+}
+
+  //w
+  
+
+
+
+,
+
+
+
+{
+name:"Washnton Hotel",
+owner:"Dlovan",
+phone1:"+964 750 422 0123",
+phone2:" ",
+location:"https://maps.app.goo.gl/PXN3yPVfCVr5suuZ9",
+status:"active"
+}
+
 
   
 //z
