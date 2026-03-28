@@ -1,3 +1,12 @@
+
+window.onload = function(){
+
+    setTimeout(function(){
+        document.getElementById("loadingScreen").style.display="none";
+    }, 3000);
+
+};
+
 const data = [
 
 //A
