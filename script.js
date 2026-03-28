@@ -157,7 +157,7 @@ owner:"",
 phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/eKqh4RGZbwXiU7sP7",
-status:"active"
+status:"deactive  24/3/2026"
 },
 {
 name:"Skye hamrin",
@@ -263,30 +263,41 @@ phone2:" ",
 location:"https://maps.app.goo.gl/mwWHMNqsUhM5Jauj6",
 status:"active"
 },
-{
-name:"Pirdawd",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"",
-status:"active"
-},
+
+
 {
 name:"Kinam Hotel",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"",
+location:"https://maps.app.goo.gl/o8zUoTmDQgUJThew7",
 status:"active"
 },
+
+
+  
 {
-name:"Alsyndian",
+name:"Mam Company",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"",
+location:"https://maps.app.goo.gl/uHTdRzVyy2TF7fD46",
+status:"active"
+},
+
+
+
+{
+name:"Hanzo Hotel",
+owner:"Rzgar",
+phone1:"+964 750 805 4542",
+phone2:" ",
+location:"https://maps.app.goo.gl/qdsNC6PzKCPiPDjKA",
 status:"active"
 }
+
+
+  
 ];
 
 const list = document.getElementById("list");
