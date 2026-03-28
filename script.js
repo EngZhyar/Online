@@ -38,8 +38,6 @@ status:"active"
 
 
 //B
-
-,
 {
 name:"Bahare Kar Shorsh",
 owner:"",
@@ -202,8 +200,6 @@ status:"active"
   
 
 //m
-
-  ,
 {
 name:"Male Gashtearan",
 owner:"",
@@ -232,11 +228,11 @@ phone1:"+964 770 129 9532",
 phone2:" ",
 location:"https://maps.app.goo.gl/Sp9aQdvNndkBqWfq5",
 status:"active"
-}
+},
 
 
 //o
-,
+
 {
 name:"Omer Tank",
 owner:"",
@@ -345,14 +341,8 @@ phone2:" ",
 location:"https://maps.app.goo.gl/SE7BHmV3u33spxHJ8",
 status:"active"
 }
-
-  //w
-  
-
-
-
 ,
-
+  //w
 
 
 {
@@ -362,12 +352,12 @@ phone1:"+964 750 422 0123",
 phone2:" ",
 location:"https://maps.app.goo.gl/PXN3yPVfCVr5suuZ9",
 status:"active"
-}
+},
 
 
   
 //z
-,
+
 {
 name:"Zarawa Company",
 owner:"",
