@@ -49,8 +49,6 @@ location:"https://maps.app.goo.gl/qQJegrF4VCmQfgPA8",
 status:"active"
 },
 
-//b
-
 {
 name:"Blue Rose Motel",
 owner:"",
@@ -82,6 +80,73 @@ status:"active"
 }
 ,
   
+//d
+
+
+{
+name:"Dwnay Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/GYWpKJd4oooZqbSt7",
+status:"active"
+},
+
+
+//g
+,
+{
+name:"Golden Night",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/4XVrBgjc2637DcBFA",
+status:"active"
+},
+
+
+//h
+  
+{
+name:"Haware Hawler 2 (Camp)",
+owner:"Nawar IT manager",
+phone1:"+964 783 577 9253",
+phone2:" ",
+location:"https://maps.app.goo.gl/8MhFnncGykc6kaEh6",
+status:"active"
+},
+{
+name:"Halqa Nadafa",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/8TRaeD4HyBpd7BL3A",
+status:"active"
+}
+
+,
+{
+name:"Hanzo Hotel",
+owner:"Rzgar",
+phone1:"+964 750 805 4542",
+phone2:" ",
+location:"https://maps.app.goo.gl/qdsNC6PzKCPiPDjKA",
+status:"active"
+}
+
+,
+//i
+
+  
+{
+name:"Ice Cream Scoop",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/6fpF9GBEAn14ZTxHA",
+status:"active"
+}
+,
   
 //k
 
@@ -158,6 +223,69 @@ location:"https://maps.app.goo.gl/AfmANnU6cq18mpBA6",
 status:"active"
 },
 
+//n
+
+{
+name:"Najm Iskan Cafe",
+owner:"bhrnk",
+phone1:"+964 770 129 9532",
+phone2:" ",
+location:"https://maps.app.goo.gl/Sp9aQdvNndkBqWfq5",
+status:"active"
+}
+
+
+//o
+,
+{
+name:"Omer Tank",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Y8EnuuMNeEXjfxcC6",
+status:"active"
+},
+  
+  {
+name:"Oscar hotel",
+owner:"",
+phone1:"+964 750 420 1089",
+phone2:" ",
+location:"https://maps.app.goo.gl/ACkEhvGuMdSwQXY28",
+status:"active"
+},
+
+
+//p
+
+  {
+name:"Pop Cafe",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/cX3T63m87cdsqY2L9",
+status:"active"
+},
+//q
+  {
+name:"Qalb Almulk",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/WzGC2TkVg1R3MxT58",
+status:"active"
+}
+
+  ,{
+name:"Qalay Iskan",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/PNLYTtY9xXCKFxn66",
+status:"active"
+},
+
+//r
 
   
 //z
