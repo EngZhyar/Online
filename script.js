@@ -320,6 +320,17 @@ phone2:" ",
 location:"https://maps.app.goo.gl/DKDEhn7tkrMacXgN9",
 status:"active"
 }
+
+,
+  {
+name:"Seveer Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/xHvta8wnCXpEauJFA",
+status:"active"
+}
+    
 ,
   {
 name:"Skye hamrin",
