@@ -228,6 +228,16 @@ location:"https://maps.app.goo.gl/AfmANnU6cq18mpBA6",
 status:"active"
 },
 
+,{
+name:"MM Crane",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/jZBhDLqsijtSngKs8",
+status:"active"
+},
+
+    
 //n
 
 {
