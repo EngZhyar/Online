@@ -142,6 +142,17 @@ status:"active"
 }
 
 ,
+
+    {
+name:"Halal Market",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/ncwwm5XCYSExzW54A",
+status:"active"
+}
+,
+    
 //i
 
   
@@ -249,7 +260,15 @@ location:"https://maps.app.goo.gl/Sp9aQdvNndkBqWfq5",
 status:"active"
 },
 
-
+    {
+name:"Nawandi Halal Market",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/UNWLKUQEEwgiWJ2x6",
+status:"active"
+}
+,
 //o
 
 {
@@ -311,6 +330,17 @@ phone2:" ",
 location:"https://maps.app.goo.gl/NtVkjxY92DHb3P3A6",
 status:"active"
 }
+    ,
+    {
+name:"Rebaz Plastic",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/hsJuq3syPHPPPEbu7",
+status:"active"
+}
+
+    
 ,
   {
 name:"Rihat Hotel",
@@ -383,8 +413,16 @@ phone2:" ",
 location:"https://maps.app.goo.gl/PXN3yPVfCVr5suuZ9",
 status:"active"
 },
-
-
+//y
+    {
+name:"Yanabee",
+owner:"Fardy Hussen",
+phone1:"07507478659",
+phone2:" ",
+location:"https://maps.app.goo.gl/ayVdEkSri7vh9DHM7",
+status:"active"
+}
+,
   
 //z
 
