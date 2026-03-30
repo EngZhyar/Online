@@ -77,6 +77,17 @@ status:"active"
 },
 
 //d
+
+    {
+name:"Daik Private Hospital",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/sE2S6BRQKF1mEMxWA",
+status:"active"
+}
+,
+    
 {
 name:"Detail Company",
 owner:"",
@@ -220,6 +231,20 @@ status:"active"
   
 
 //m
+
+    {
+name:"Majdal Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/bXQkncA7nDHooZwXA",
+status:"active"
+}
+,
+
+    
+
+    
 {
 name:"Male Gashtearan",
 owner:"",
@@ -389,6 +414,20 @@ phone2:" ",
 location:"https://maps.app.goo.gl/XWDcunjxiSQ2cHfw6",
 status:"active"
 },
+
+//T
+
+        {
+name:"Tulya Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/erxAP6j7ktWNZ4Ru8",
+status:"active"
+}
+,
+
+    
 
 //v
 
