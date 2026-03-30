@@ -281,7 +281,7 @@ status:"active"
 },
   
   {
-name:"Oscar hotel",
+name:"Oscar Hotel",
 owner:"",
 phone1:"+964 750 420 1089",
 phone2:" ",
@@ -373,7 +373,7 @@ status:"active"
     
 ,
   {
-name:"Skye hamrin",
+name:"Sky Hamrin",
 owner:"",
 phone1:"",
 phone2:" ",
