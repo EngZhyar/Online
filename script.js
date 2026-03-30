@@ -179,6 +179,18 @@ status:"active"
   
 //k
 
+    {
+name:"Kani Chya Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/qVVqptee6eZKTvVy8",
+status:"active"
+}
+,
+
+
+    
   {
 name:"Kinam Hotel",
 owner:"",
