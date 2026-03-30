@@ -418,6 +418,16 @@ location:"https://maps.app.goo.gl/Xn8pExEzvsiEV8fe7",
 status:"active"
 }
 ,
+
+  {
+name:"Sky Bavari",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/asoGWqinPgcJ19U96",
+status:"active"
+}
+    ,
 {
 name:"Sherzad",
 owner:"",
