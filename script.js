@@ -27,6 +27,7 @@ phone2:" ",
 location:"https://maps.app.goo.gl/EXwEQ19zhzosbX7g9",
 status:"active"
 },
+    
 {
 name:"AD Motel 2",
 owner:"",
@@ -112,7 +113,6 @@ status:"active"
 
 
 //g
-,
 {
 name:"Golden Night",
 owner:"",
@@ -140,9 +140,8 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/8TRaeD4HyBpd7BL3A",
 status:"active"
-}
-
-,
+},
+    
 {
 name:"Hanzo Hotel",
 owner:"Rzgar",
@@ -150,10 +149,9 @@ phone1:"+964 750 805 4542",
 phone2:" ",
 location:"https://maps.app.goo.gl/qdsNC6PzKCPiPDjKA",
 status:"active"
-}
+},
 
-,
-
+    
     {
 name:"Halal Market",
 owner:"",
@@ -161,8 +159,7 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/ncwwm5XCYSExzW54A",
 status:"active"
-}
-,
+},
 
 {
 name:"Hyper Post (Koga)",
@@ -171,8 +168,7 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/ZFmQ1UyLf8923SdF9",
 status:"active"
-}
-,
+},
 
 
 
@@ -187,20 +183,17 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/6fpF9GBEAn14ZTxHA",
 status:"active"
-}
-,
+},
   
 //k
-
-    {
+{
 name:"Kani Chya Hotel",
 owner:"",
 phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/qVVqptee6eZKTvVy8",
 status:"deactive 31/3/2026"
-}
-,
+},
 
 
     
@@ -239,9 +232,7 @@ phone1:"+964 750 363 3454",
 phone2:" ",
 location:"https://www.google.com/maps?q=36.20460510253906,43.98479080200195&z=17&hl=en",
 status:"active"
-}
-
-,
+},
 
 {
 name:"Khalat",
@@ -261,8 +252,7 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/woCq2CSZmFnf84th6",
 status:"active"
-}
-,
+},
 
   
 
@@ -275,8 +265,7 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/bXQkncA7nDHooZwXA",
 status:"active"
-}
-,
+},
 
     
 
@@ -300,7 +289,7 @@ location:"https://maps.app.goo.gl/AfmANnU6cq18mpBA6",
 status:"active"
 },
 
-,{
+{
 name:"MM Crane",
 owner:"",
 phone1:"",
@@ -328,8 +317,7 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/UNWLKUQEEwgiWJ2x6",
 status:"active"
-}
-,
+},
 //o
 
 {
@@ -369,10 +357,9 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/WzGC2TkVg1R3MxT58",
 status:"active"
-}
-  
-
-  ,{
+},
+    
+    {
 name:"Qalay Iskan",
 owner:"",
 phone1:"",
@@ -391,9 +378,7 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/hsJuq3syPHPPPEbu7",
 status:"active"
-}
-
-    ,
+},
 
 {
 name:"Rodina Hotel",
@@ -402,9 +387,8 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/NtVkjxY92DHb3P3A6",
 status:"active"
-}
-
-,
+},
+    
     {
 name:"Rose Medeical Center",
 owner:"",
@@ -412,12 +396,8 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/cnQKKAevQP2pii726",
 status:"active"
-}
-
-
-
+},
     
-,
   {
 name:"Rihat Hotel",
 owner:"",
@@ -435,9 +415,9 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/DKDEhn7tkrMacXgN9",
 status:"active"
-}
+},
 
-,
+    
   {
 name:"Seveer Hotel",
 owner:"",
@@ -445,9 +425,9 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/xHvta8wnCXpEauJFA",
 status:"active"
-}
+},
+
     
-,
   {
 name:"Sky Hamrin",
 owner:"",
@@ -455,8 +435,7 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/Xn8pExEzvsiEV8fe7",
 status:"active"
-}
-,
+},
 
   {
 name:"Sky Bavari",
@@ -465,8 +444,8 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/asoGWqinPgcJ19U96",
 status:"active"
-}
-    ,
+},
+    
 {
 name:"Sherzad",
 owner:"",
@@ -483,8 +462,8 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/qLRKGSaWbXWRthVn9",
 status:"active"
-}
-,
+},
+    
 {
 name:"Shahid Shawkat",
 owner:"",
@@ -492,8 +471,8 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/WPJnitZVTZ1h3WxSA",
 status:"active"
-}
-,
+},
+    
 
     {
 name:"Sultan Surya",
@@ -502,8 +481,7 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/1obc1ePSqQBdhY37A",
 status:"active"
-}
-,
+},
 
 {
 name:"SoulMate Hotel",
@@ -512,8 +490,7 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/AVcpHh4qGNHN2C2n7",
 status:"active"
-}
-,
+},
 
     
 
@@ -528,8 +505,7 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/erxAP6j7ktWNZ4Ru8",
 status:"active"
-}
-,
+},
 
     
 
@@ -543,8 +519,7 @@ phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/SE7BHmV3u33spxHJ8",
 status:"active"
-}
-,
+},
   //w
 
 
@@ -564,8 +539,7 @@ phone1:"07507478659",
 phone2:" ",
 location:"https://maps.app.goo.gl/ayVdEkSri7vh9DHM7",
 status:"active"
-}
-,
+},
   
 //z
 
