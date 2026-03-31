@@ -340,7 +340,17 @@ status:"active"
 
 
 //p
+{
+name:"Perlina Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/kG7nL1DyJXAAPLTXA",
+status:"active"
+},
 
+
+    
   {
 name:"Pop Cafe",
 owner:"",
