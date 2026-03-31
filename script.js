@@ -595,6 +595,10 @@ div.innerText = item.name;
 div.onclick = () => showDetails(item);
 
 list.appendChild(div);
+
+   document.getElementById("search").placeholder =
+        "Search (" + items.length + " Sites)";
+    
 });
 }
 
@@ -645,5 +649,11 @@ item.name.toLowerCase().includes(value)
 
 displayList(filtered);
 });
+
+
+
+
+
+
 
 displayList(data);
