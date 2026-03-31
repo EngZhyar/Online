@@ -571,7 +571,7 @@ div.onclick = () => showDetails(item);
 list.appendChild(div);
 
    document.getElementById("search").placeholder =
-        "Search (" + items.length + " Sites)";
+        "Search... (" + items.length + " Sites)";
     
 });
 }
