@@ -185,7 +185,7 @@ owner:"",
 phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/qVVqptee6eZKTvVy8",
-status:"active"
+status:"deactive 31/3/2026"
 }
 ,
 
@@ -239,6 +239,17 @@ location:"https://maps.app.goo.gl/C3zcsRdjhUUkLP137",
 status:"active"
 },
 
+//L
+
+{
+name:"Lantana Motel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/woCq2CSZmFnf84th6",
+status:"active"
+}
+,
 
   
 
@@ -359,6 +370,18 @@ status:"active"
 
 //r
 
+
+    {
+name:"Rabaz Plastic",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/hsJuq3syPHPPPEbu7",
+status:"active"
+}
+
+    ,
+
 {
 name:"Rodina Hotel",
 owner:"",
@@ -367,15 +390,7 @@ phone2:" ",
 location:"https://maps.app.goo.gl/NtVkjxY92DHb3P3A6",
 status:"active"
 }
-    ,
-    {
-name:"Rebaz Plastic",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/hsJuq3syPHPPPEbu7",
-status:"active"
-}
+  
 
     
 ,
