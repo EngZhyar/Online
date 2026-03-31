@@ -163,7 +163,20 @@ location:"https://maps.app.goo.gl/ncwwm5XCYSExzW54A",
 status:"active"
 }
 ,
-    
+
+{
+name:"Hyper Post (Koga)",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/ZFmQ1UyLf8923SdF9",
+status:"active"
+}
+,
+
+
+
+
 //i
 
   
@@ -390,7 +403,18 @@ phone2:" ",
 location:"https://maps.app.goo.gl/NtVkjxY92DHb3P3A6",
 status:"active"
 }
-  
+
+,
+    {
+name:"Rose Medeical Center",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/cnQKKAevQP2pii726",
+status:"active"
+}
+
+
 
     
 ,
@@ -451,6 +475,49 @@ phone2:" ",
 location:"https://maps.app.goo.gl/XWDcunjxiSQ2cHfw6",
 status:"active"
 },
+
+{
+name:"Shams Surya",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/qLRKGSaWbXWRthVn9",
+status:"active"
+}
+,
+{
+name:"Shahid Shawkat",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/WPJnitZVTZ1h3WxSA",
+status:"active"
+}
+,
+
+    {
+name:"Sultan Surya",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/1obc1ePSqQBdhY37A",
+status:"active"
+}
+,
+
+{
+name:"SoulMate Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/AVcpHh4qGNHN2C2n7",
+status:"active"
+}
+,
+
+    
+
+    
 
 //T
 
