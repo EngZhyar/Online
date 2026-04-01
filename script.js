@@ -98,6 +98,28 @@ location:"https://maps.app.goo.gl/sE2S6BRQKF1mEMxWA",
 status:"active"
 }
 ,
+
+
+{
+name:"Danzha Motel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/79bwWmtXPSUDBkBj8",
+status:"active"
+},
+
+
+    
+{
+name:"Danzha Hotel 2",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/CX11YTJ8r4p6LUAh8",
+status:"active"
+},
+    
     
 {
 name:"Detail Company",
@@ -373,6 +395,17 @@ status:"active"
 
 
 //p
+
+{
+name:"Parwaz Company (Schwing Stetter)",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/yuwxA14KGApbAmMC7",
+status:"active"
+},
+
+    
 {
 name:"Panda Company",
 owner:"",
