@@ -58,6 +58,16 @@ status:"active"
 },
 
 {
+name:"Baxe Halabja",
+owner:"",
+phone1:"07503615920",
+phone2:" ",
+location:"https://maps.app.goo.gl/v51fjC9MVd5oueSs6",
+status:"active"
+},
+
+    
+{
 name:"Blue Rose Motel",
 owner:"",
 phone1:"",
@@ -113,6 +123,18 @@ status:"active"
 
 
 //g
+
+{
+name:"Gasha School",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Gga8uDNiKmfSbKw56",
+status:"active"
+},
+
+
+    
 {
 name:"Golden Night",
 owner:"",
@@ -124,7 +146,18 @@ status:"active"
 
 
 //h
-  
+{
+name:"Hawler School",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/pMW9HNngPMKQqDuX9",
+status:"active"
+},
+
+
+
+    
 {
 name:"Haware Hawler 2 (Camp)",
 owner:"Nawar IT manager",
@@ -341,6 +374,18 @@ status:"active"
 
 //p
 {
+name:"Panda Company",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/bwy4VfrYrwMxRoaP8",
+status:"active"
+},
+
+
+
+    
+{
 name:"Perlina Hotel",
 owner:"",
 phone1:"",
@@ -517,10 +562,27 @@ location:"https://maps.app.goo.gl/erxAP6j7ktWNZ4Ru8",
 status:"active"
 },
 
-    
+    {
+name:"Top Shisha",
+owner:"Wshyar",
+phone1:"07503370829 top shisha",
+phone2:" ",
+location:"https://maps.app.goo.gl/v51fjC9MVd5oueSs6",
+status:"active"
+},
 
 //v
 
+{
+name:"Valina Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/cWkMSAV7NLr9Szhv5",
+status:"active"
+},
+
+    
 
 {
 name:"Vote 2 hotel",
@@ -548,6 +610,15 @@ owner:"Fardy Hussen",
 phone1:"07507478659",
 phone2:" ",
 location:"https://maps.app.goo.gl/ayVdEkSri7vh9DHM7",
+status:"active"
+},
+
+{
+name:"Yooumi company",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/nhY1FqJiHnbuCbgGA",
 status:"active"
 },
   
