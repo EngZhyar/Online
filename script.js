@@ -326,16 +326,7 @@ location:"https://maps.app.goo.gl/qVVqptee6eZKTvVy8",
 status:"deactive 31/3/2026"
 },
 
-    
 
-{
-name:"Khallat Company",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/tMUtFjpTCN2HXrt48",
-status:"active"
-},
 
 {
 name:"Kargay Hawler",
