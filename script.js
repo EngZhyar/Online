@@ -11,6 +11,24 @@ const data = [
 
 //A
 {
+name:"Alsyaha",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/KuD952p4JaLHjxUX6",
+status:"active"
+},
+
+    {
+name:"Aman Company",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/i6XKU2L8sJDNVMha7",
+status:"active"
+},
+    
+{
 name:"Ararat Hotel",
 owner:"",
 phone1:"",
@@ -75,9 +93,27 @@ phone2:" ",
 location:"https://maps.app.goo.gl/zsBsVKvysybxeesC6",
 status:"active"
 },
-
+{
+name:"Bnagha Factory",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Jespit5tvWk5bghbA",
+status:"active"
+},
 //c
 
+    {
+name:"Chaina Tower",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/pDVdywBdk4GLV2zR7",
+status:"active"
+},
+
+
+    
 {
 name:"Calibration Modern",
 owner:"Ahmad Nasraddin",
@@ -143,6 +179,20 @@ location:"https://maps.app.goo.gl/GYWpKJd4oooZqbSt7",
 status:"active"
 },
 
+//f
+    
+
+
+{
+name:"Fabyat",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Jespit5tvWk5bghbA",
+status:"active"
+},
+
+    
 
 //g
 
@@ -177,9 +227,24 @@ location:"https://maps.app.goo.gl/pMW9HNngPMKQqDuX9",
 status:"active"
 },
 
+{
+name:"Hawari Hawler Mam Zawa",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Av9Q9KnGKnLtfezw6",
+status:"active"
+},
 
-
-    
+  {
+name:"Hlul Handasa",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/fnLyX77ZYYnRJhmd7",
+status:"active"
+},
+  
 {
 name:"Haware Hawler 2 (Camp)",
 owner:"Nawar IT manager",
@@ -239,6 +304,17 @@ phone2:" ",
 location:"https://maps.app.goo.gl/6fpF9GBEAn14ZTxHA",
 status:"active"
 },
+
+//j
+   
+{
+name:"Jegr Palace Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/U2VS8QuAAXmeUwt68",
+status:"active"
+}, 
   
 //k
 {
@@ -250,6 +326,25 @@ location:"https://maps.app.goo.gl/qVVqptee6eZKTvVy8",
 status:"deactive 31/3/2026"
 },
 
+    
+
+{
+name:"Khallat Company",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/tMUtFjpTCN2HXrt48",
+status:"active"
+},
+
+{
+name:"Kargay Hawler",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Wm14g6GAshzCNkFU9",
+status:"active"
+},
 
     
   {
@@ -336,6 +431,17 @@ status:"active"
 
 
 {
+name:"Masguf Restorant",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/cPcs5ESmNMdhFnph8",
+status:"active"
+},
+
+
+    
+{
 name:"Mam Concret",
 owner:"",
 phone1:"",
@@ -393,6 +499,15 @@ location:"https://maps.app.goo.gl/ACkEhvGuMdSwQXY28",
 status:"active"
 },
 
+{
+name:"Osman Kalazher",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/9Ph91rkPD6qq7ytp6",
+status:"active"
+},
+
 
 //p
 
@@ -404,6 +519,17 @@ phone2:" ",
 location:"https://maps.app.goo.gl/yuwxA14KGApbAmMC7",
 status:"active"
 },
+
+    
+{
+name:"Palmera Plaza",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/8UWrpUSXh6qfg4JN8",
+status:"active"
+},
+
 
     
 {
@@ -504,6 +630,21 @@ phone2:" ",
 location:"https://maps.app.goo.gl/DKDEhn7tkrMacXgN9",
 status:"active"
 },
+
+
+
+{
+name:"Spell Cafe",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/9Ph91rkPD6qq7ytp6",
+status:"active"
+},
+
+
+
+
 
     
   {
