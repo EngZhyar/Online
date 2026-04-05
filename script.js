@@ -192,6 +192,14 @@ location:"https://maps.app.goo.gl/Jespit5tvWk5bghbA",
 status:"active"
 },
 
+    {
+name:"Flash Light",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/aLFaWgG6PVV9usNC8",
+status:"deactive 5/4/2026"
+},
     
 
 //g
