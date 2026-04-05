@@ -37,12 +37,11 @@ box-shadow:0 4px 10px rgba(0,0,0,0.1);
 transition: all 0.25s ease;
 font-weight:bold;
 }
-
-#list{
-display:grid;
-grid-template-columns: repeat(auto-fit, minmax(120px,1fr));
-gap:5px;
-padding-left: 5px;
+#list {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(120px, 1fr));
+  gap: 5px;
+  padding-left: 5px;
 }
 
 /* LIST ITEMS */
