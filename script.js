@@ -809,7 +809,7 @@ status:"active"
 },
 
 {
-name:"Yooumi company",
+name:"Yummy Company",
 owner:"",
 phone1:"",
 phone2:" ",
