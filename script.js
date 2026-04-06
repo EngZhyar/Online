@@ -10,6 +10,17 @@ window.onload = function(){
 const data = [
 
 //A
+
+{
+name:"Ahin Motel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/T1Rm9kXQPdmcWiQeA",
+status:"active"
+},
+
+    
 {
 name:"Alsyaha",
 owner:"",
