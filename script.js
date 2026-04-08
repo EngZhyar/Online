@@ -68,8 +68,8 @@ status:"active"
 
 {
 name:"Amas Hypermarket",
-owner:"",
-phone1:"",
+owner:"Rewan (Resturant)",
+phone1:"+9647507613223",
 phone2:" ",
 location:"https://maps.app.goo.gl/ygJKRKMCAQohKGY7A",
 status:"active"
@@ -86,6 +86,15 @@ location:"https://maps.app.goo.gl/qQJegrF4VCmQfgPA8",
 status:"active"
 },
 
+{
+name:"Balaxany Haji Salam",
+owner:"",
+phone1:"07517217471",
+phone2:" ",
+location:"https://maps.app.goo.gl/NaufaTS7rZnqBhWP9",
+status:"active"
+},
+    
 {
 name:"Baxe Halabja",
 owner:"",
