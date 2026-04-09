@@ -8,8 +8,26 @@ window.onload = function(){
 };
 
 const data = [
+    //A
 
-//A
+{
+name:"AD Hotel 1",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/EXwEQ19zhzosbX7g9",
+status:"active"
+},
+    
+{
+name:"AD Motel 2",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/JoA1HgcsHmDMQSgM7",
+status:"active"
+},
+
 
 {
 name:"Ahin Motel",
@@ -38,33 +56,6 @@ phone2:" ",
 location:"https://maps.app.goo.gl/i6XKU2L8sJDNVMha7",
 status:"active"
 },
-    
-{
-name:"Ararat Hotel",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/sp64ry1Jx9NvwSGb9",
-status:"active"
-},
-
-{
-name:"AD Hotel 1",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/EXwEQ19zhzosbX7g9",
-status:"active"
-},
-    
-{
-name:"AD Motel 2",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/JoA1HgcsHmDMQSgM7",
-status:"active"
-},
 
 {
 name:"Amas Hypermarket",
@@ -76,6 +67,17 @@ status:"active"
 },
 
 
+{
+name:"Ararat Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/sp64ry1Jx9NvwSGb9",
+status:"active"
+},
+
+
+
 //B
 {
 name:"Bahare Kar Shorsh",
@@ -85,6 +87,7 @@ phone2:" ",
 location:"https://maps.app.goo.gl/qQJegrF4VCmQfgPA8",
 status:"active"
 },
+
 
 {
 name:"Balaxany Haji Salam",
@@ -114,8 +117,6 @@ location:"https://maps.app.goo.gl/nb32MNzdjbxJPvkt9?g_st=aw",
 status:"active"
 },
 
-    
-    
 {
 name:"Blue Rose Motel",
 owner:"",
@@ -124,6 +125,8 @@ phone2:" ",
 location:"https://maps.app.goo.gl/zsBsVKvysybxeesC6",
 status:"active"
 },
+
+
 {
 name:"Bnagha Factory",
 owner:"",
@@ -132,7 +135,20 @@ phone2:" ",
 location:"https://maps.app.goo.gl/Jespit5tvWk5bghbA",
 status:"active"
 },
-//c
+
+//C
+
+{
+name:"Calibration Modern",
+owner:"Ahmad Nasraddin",
+phone1:"+964 782 557 6825",
+phone2:" ",
+location:" https://maps.app.goo.gl/uDd14ByFswCP9CpcA?g_st=iw",
+status:"active"
+},
+
+
+
 
     {
 name:"Chaina Tower",
@@ -144,17 +160,8 @@ status:"active"
 },
 
 
-    
-{
-name:"Calibration Modern",
-owner:"Ahmad Nasraddin",
-phone1:"+964 782 557 6825",
-phone2:" ",
-location:" https://maps.app.goo.gl/uDd14ByFswCP9CpcA?g_st=iw",
-status:"active"
-},
 
-//d
+//D
 
     {
 name:"Daik Private Hospital",
@@ -168,6 +175,16 @@ status:"active"
 
 
 {
+name:"Danzha Hotel 2",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/CX11YTJ8r4p6LUAh8",
+status:"active"
+},
+
+
+{
 name:"Danzha Motel",
 owner:"",
 phone1:"",
@@ -176,18 +193,6 @@ location:"https://maps.app.goo.gl/79bwWmtXPSUDBkBj8",
 status:"active"
 },
 
-
-    
-{
-name:"Danzha Hotel 2",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/CX11YTJ8r4p6LUAh8",
-status:"active"
-},
-    
-    
 {
 name:"Detail Company",
 owner:"",
@@ -197,8 +202,7 @@ location:"https://maps.app.goo.gl/dQiPGXa8sMB3fsmE8",
 status:"active"
 }
 ,
-  
-//d
+
 
 
 {
@@ -210,9 +214,7 @@ location:"https://maps.app.goo.gl/GYWpKJd4oooZqbSt7",
 status:"active"
 },
 
-//f
-    
-
+//F
 
 {
 name:"Fabyat",
@@ -231,9 +233,9 @@ phone2:" ",
 location:"https://maps.app.goo.gl/aLFaWgG6PVV9usNC8",
 status:"deactive 5/4/2026"
 },
-    
+   
 
-//g
+//G
 
 {
 name:"Gasha School",
@@ -243,6 +245,7 @@ phone2:" ",
 location:"https://maps.app.goo.gl/Gga8uDNiKmfSbKw56",
 status:"active"
 },
+
 
 
     
@@ -256,13 +259,45 @@ status:"active"
 },
 
 
-//h
-{
-name:"Hawler School",
+
+//H
+
+    {
+name:"Halal Market",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/pMW9HNngPMKQqDuX9",
+location:"https://maps.app.goo.gl/ncwwm5XCYSExzW54A",
+status:"active"
+},
+
+
+{
+name:"Halqa Nadafa",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/8TRaeD4HyBpd7BL3A",
+status:"active"
+},
+
+
+{
+name:"Hanzo Hotel",
+owner:"Rzgar",
+phone1:"+964 750 805 4542",
+phone2:" ",
+location:"https://maps.app.goo.gl/qdsNC6PzKCPiPDjKA",
+status:"active"
+},
+
+
+{
+name:"Haware Hawler 2 (Camp)",
+owner:"Nawar IT manager",
+phone1:"+964 783 577 9253",
+phone2:" ",
+location:"https://maps.app.goo.gl/8MhFnncGykc6kaEh6",
 status:"active"
 },
 
@@ -275,6 +310,16 @@ location:"https://maps.app.goo.gl/Av9Q9KnGKnLtfezw6",
 status:"active"
 },
 
+{
+name:"Hawler School",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/pMW9HNngPMKQqDuX9",
+status:"active"
+},
+
+
   {
 name:"Hlul Handasa",
 owner:"",
@@ -283,42 +328,7 @@ phone2:" ",
 location:"https://maps.app.goo.gl/fnLyX77ZYYnRJhmd7",
 status:"active"
 },
-  
-{
-name:"Haware Hawler 2 (Camp)",
-owner:"Nawar IT manager",
-phone1:"+964 783 577 9253",
-phone2:" ",
-location:"https://maps.app.goo.gl/8MhFnncGykc6kaEh6",
-status:"active"
-},
-{
-name:"Halqa Nadafa",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/8TRaeD4HyBpd7BL3A",
-status:"active"
-},
-    
-{
-name:"Hanzo Hotel",
-owner:"Rzgar",
-phone1:"+964 750 805 4542",
-phone2:" ",
-location:"https://maps.app.goo.gl/qdsNC6PzKCPiPDjKA",
-status:"active"
-},
 
-    
-    {
-name:"Halal Market",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/ncwwm5XCYSExzW54A",
-status:"active"
-},
 
 {
 name:"Hyper Post (Koga)",
@@ -332,7 +342,7 @@ status:"active"
 
 
 
-//i
+//I
 
   
 {
@@ -344,7 +354,9 @@ location:"https://maps.app.goo.gl/6fpF9GBEAn14ZTxHA",
 status:"active"
 },
 
-//j
+
+
+//J
    
 {
 name:"Jegr Palace Hotel",
@@ -355,7 +367,9 @@ location:"https://maps.app.goo.gl/U2VS8QuAAXmeUwt68",
 status:"active"
 }, 
   
-//k
+
+
+//K
 {
 name:"Kani Chya Hotel",
 owner:"",
@@ -376,7 +390,15 @@ location:"https://maps.app.goo.gl/Wm14g6GAshzCNkFU9",
 status:"active"
 },
 
-    
+{
+name:"Khalat",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/C3zcsRdjhUUkLP137",
+status:"active"
+},
+
   {
 name:"Kinam Hotel",
 owner:"",
@@ -386,15 +408,6 @@ location:"https://maps.app.goo.gl/o8zUoTmDQgUJThew7",
 status:"active"
 },
 
-
-{
-name:"Koshki Rashid",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/RgH2wmHgNNJQ8qPv7",
-status:"active"
-},
 
 {
 name:"King School",
@@ -408,18 +421,18 @@ status:"active"
 {
 name:"King school wazeran",
 owner:"Ziad Surchi",
-phone1:"+964 750 363 3454",
+phone1:"07503633454",
 phone2:" ",
 location:"https://www.google.com/maps?q=36.20460510253906,43.98479080200195&z=17&hl=en",
 status:"active"
 },
 
 {
-name:"Khalat",
+name:"Koshki Rashid",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/C3zcsRdjhUUkLP137",
+location:"https://maps.app.goo.gl/RgH2wmHgNNJQ8qPv7",
 status:"active"
 },
 
@@ -434,9 +447,7 @@ location:"https://maps.app.goo.gl/woCq2CSZmFnf84th6",
 status:"active"
 },
 
-  
-
-//m
+//M
 
     {
 name:"Majdal Hotel",
@@ -447,7 +458,6 @@ location:"https://maps.app.goo.gl/bXQkncA7nDHooZwXA",
 status:"active"
 },
 
-    
 
     
 {
@@ -456,6 +466,15 @@ owner:"",
 phone1:"+964 750 853 3333",
 phone2:" ",
 location:"https://maps.app.goo.gl/RsHBJRckY6AXTA4q7",
+status:"active"
+},
+
+{
+name:"Mam Concret",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/AfmANnU6cq18mpBA6",
 status:"active"
 },
 
@@ -469,17 +488,6 @@ location:"https://maps.app.goo.gl/cPcs5ESmNMdhFnph8",
 status:"active"
 },
 
-
-    
-{
-name:"Mam Concret",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/AfmANnU6cq18mpBA6",
-status:"active"
-},
-
 {
 name:"MM Crane",
 owner:"",
@@ -489,8 +497,7 @@ location:"https://maps.app.goo.gl/jZBhDLqsijtSngKs8",
 status:"active"
 },
 
-    
-//n
+//N
 
 {
 name:"Najm Iskan Cafe",
@@ -501,6 +508,8 @@ location:"https://maps.app.goo.gl/Sp9aQdvNndkBqWfq5",
 status:"active"
 },
 
+
+
     {
 name:"Nawandi Halal Market",
 owner:"",
@@ -509,7 +518,7 @@ phone2:" ",
 location:"https://maps.app.goo.gl/UNWLKUQEEwgiWJ2x6",
 status:"active"
 },
-//o
+//O
 
 {
 name:"Omer Tank",
@@ -539,18 +548,9 @@ status:"active"
 },
 
 
-//p
+//P
 
-{
-name:"Parwaz Company (Schwing Stetter)",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/yuwxA14KGApbAmMC7",
-status:"active"
-},
 
-    
 {
 name:"Palmera Plaza",
 owner:"",
@@ -571,9 +571,15 @@ location:"https://maps.app.goo.gl/bwy4VfrYrwMxRoaP8",
 status:"active"
 },
 
+{
+name:"Parwaz Company (Schwing Stetter)",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/yuwxA14KGApbAmMC7",
+status:"active"
+},
 
-
-    
 {
 name:"Perlina Hotel",
 owner:"",
@@ -583,8 +589,6 @@ location:"https://maps.app.goo.gl/kG7nL1DyJXAAPLTXA",
 status:"active"
 },
 
-
-    
   {
 name:"Pop Cafe",
 owner:"",
@@ -593,7 +597,18 @@ phone2:" ",
 location:"https://maps.app.goo.gl/cX3T63m87cdsqY2L9",
 status:"active"
 },
-//q
+//Q
+
+   {
+name:"Qalay Iskan",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/PNLYTtY9xXCKFxn66",
+status:"active"
+},
+
+
   {
 name:"Qalb Almulk",
 owner:"",
@@ -603,16 +618,8 @@ location:"https://maps.app.goo.gl/WzGC2TkVg1R3MxT58",
 status:"active"
 },
     
-    {
-name:"Qalay Iskan",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/PNLYTtY9xXCKFxn66",
-status:"active"
-},
 
-//r
+//R
 
 
     {
@@ -623,6 +630,16 @@ phone2:" ",
 location:"https://maps.app.goo.gl/hsJuq3syPHPPPEbu7",
 status:"active"
 },
+
+  {
+name:"Rihat Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/eKqh4RGZbwXiU7sP7",
+status:"deactive  24/3/2026"
+},
+
 
 {
 name:"Rodina Hotel",
@@ -642,16 +659,7 @@ location:"https://maps.app.goo.gl/cnQKKAevQP2pii726",
 status:"active"
 },
     
-  {
-name:"Rihat Hotel",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/eKqh4RGZbwXiU7sP7",
-status:"deactive  24/3/2026"
-},
-
-//s
+//S
 {
 name:"Samad Resturant",
 owner:"",
@@ -661,22 +669,6 @@ location:"https://maps.app.goo.gl/DKDEhn7tkrMacXgN9",
 status:"active"
 },
 
-
-
-{
-name:"Spell Cafe",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/9Ph91rkPD6qq7ytp6",
-status:"active"
-},
-
-
-
-
-
-    
   {
 name:"Seveer Hotel",
 owner:"",
@@ -686,31 +678,12 @@ location:"https://maps.app.goo.gl/xHvta8wnCXpEauJFA",
 status:"active"
 },
 
-    
-  {
-name:"Sky Hamrin",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/Xn8pExEzvsiEV8fe7",
-status:"active"
-},
-
-  {
-name:"Sky Bavari",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/asoGWqinPgcJ19U96",
-status:"active"
-},
-    
 {
-name:"Sherzad",
+name:"Shahid Shawkat",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/XWDcunjxiSQ2cHfw6",
+location:"https://maps.app.goo.gl/WPJnitZVTZ1h3WxSA",
 status:"active"
 },
 
@@ -722,15 +695,18 @@ phone2:" ",
 location:"https://maps.app.goo.gl/qLRKGSaWbXWRthVn9",
 status:"active"
 },
-    
+
+
+
 {
-name:"Shahid Shawkat",
+name:"Sherzad",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/WPJnitZVTZ1h3WxSA",
+location:"https://maps.app.goo.gl/XWDcunjxiSQ2cHfw6",
 status:"active"
 },
+
 
 {
 name:"Shoof",
@@ -742,16 +718,26 @@ status:"active"
 },
 
 
-    
-
-    {
-name:"Sultan Surya",
+ {
+name:"Sky Bavari",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/1obc1ePSqQBdhY37A",
+location:"https://maps.app.goo.gl/asoGWqinPgcJ19U96",
 status:"active"
 },
+    
+
+
+  {
+name:"Sky Hamrin",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Xn8pExEzvsiEV8fe7",
+status:"active"
+},
+
 
 {
 name:"SoulMate Hotel",
@@ -762,11 +748,35 @@ location:"https://maps.app.goo.gl/AVcpHh4qGNHN2C2n7",
 status:"active"
 },
 
-    
+{
+name:"Spell Cafe",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/9Ph91rkPD6qq7ytp6",
+status:"active"
+},
 
-    
+    {
+name:"Sultan Surya",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/1obc1ePSqQBdhY37A",
+status:"active"
+},
 
 //T
+
+  {
+name:"Top Shisha",
+owner:"Wshyar",
+phone1:"07503370829 top shisha",
+phone2:" ",
+location:"https://maps.app.goo.gl/v51fjC9MVd5oueSs6",
+status:"active"
+},
+
 
         {
 name:"Tulya Hotel",
@@ -777,16 +787,9 @@ location:"https://maps.app.goo.gl/erxAP6j7ktWNZ4Ru8",
 status:"active"
 },
 
-    {
-name:"Top Shisha",
-owner:"Wshyar",
-phone1:"07503370829 top shisha",
-phone2:" ",
-location:"https://maps.app.goo.gl/v51fjC9MVd5oueSs6",
-status:"active"
-},
 
-//v
+
+//V
 
 {
 name:"Valina Hotel",
@@ -807,7 +810,9 @@ phone2:" ",
 location:"https://maps.app.goo.gl/SE7BHmV3u33spxHJ8",
 status:"active"
 },
-  //w
+
+
+  //W
 
 
 {
@@ -818,7 +823,9 @@ phone2:" ",
 location:"https://maps.app.goo.gl/PXN3yPVfCVr5suuZ9",
 status:"active"
 },
-//y
+
+
+//Y
     {
 name:"Yanabee",
 owner:"Fardy Hussen",
@@ -837,7 +844,8 @@ location:"https://maps.app.goo.gl/nhY1FqJiHnbuCbgGA",
 status:"active"
 },
   
-//z
+
+//Z
 
 {
 name:"Zarawa Company",
@@ -847,7 +855,6 @@ phone2:" ",
 location:"https://maps.app.goo.gl/ngXUh8XCRyYnDDUV8?g_st=aw",
 status:"active"
 }
-  
 ];
 
 const list = document.getElementById("list");
