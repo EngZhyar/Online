@@ -88,7 +88,15 @@ location:"https://maps.app.goo.gl/qQJegrF4VCmQfgPA8",
 status:"active"
 },
 
-
+{
+name:"Bahez Company",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/wzug68QLgDxPELrM8?g_st=iw",
+status:"deactive  29/3/2026"
+},
+    
 {
 name:"Balaxany Haji Salam",
 owner:"",
