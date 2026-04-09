@@ -104,6 +104,17 @@ location:"https://maps.app.goo.gl/v51fjC9MVd5oueSs6",
 status:"active"
 },
 
+
+{
+name:"Blue Corner 2",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/nb32MNzdjbxJPvkt9?g_st=aw",
+status:"active"
+},
+
+    
     
 {
 name:"Blue Rose Motel",
