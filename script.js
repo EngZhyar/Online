@@ -387,6 +387,14 @@ location:"https://maps.app.goo.gl/qVVqptee6eZKTvVy8",
 status:"deactive 31/3/2026"
 },
 
+{
+name:"Kantore Modern",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/gsKM9os7FARNq4Fu6",
+status:"active"
+},
 
 
 {
@@ -579,6 +587,17 @@ location:"https://maps.app.goo.gl/bwy4VfrYrwMxRoaP8",
 status:"active"
 },
 
+{
+name:"Panton",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/2y4nhMjgZ7gHVxhe9",
+status:"active"
+},
+
+
+    
 {
 name:"Parwaz Company (Schwing Stetter)",
 owner:"",
@@ -776,6 +795,18 @@ status:"active"
 
 //T
 
+
+
+{
+name:"Tavgay hadara",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/vGNRSp1d3m57Lyv89",
+status:"active"
+},
+
+    
   {
 name:"Top Shisha",
 owner:"Wshyar",
