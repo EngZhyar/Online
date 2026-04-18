@@ -82,7 +82,7 @@ status:"active"
 {
 name:"Bahare Kar Shorsh",
 owner:"",
-phone1:"+964 772 171 8657",
+phone1:"07721718657",
 phone2:" ",
 location:"https://maps.app.goo.gl/qQJegrF4VCmQfgPA8",
 status:"active"
@@ -92,7 +92,7 @@ status:"active"
 name:"Bahez Company",
 owner:"",
 phone1:"",
-phone2:" ",
+phone2:"",
 location:"https://maps.app.goo.gl/wzug68QLgDxPELrM8?g_st=iw",
 status:"deactive  29/3/2026"
 },
@@ -129,7 +129,7 @@ status:"active"
 name:"Blue Rose Motel",
 owner:"",
 phone1:"",
-phone2:" ",
+phone2:"",
 location:"https://maps.app.goo.gl/zsBsVKvysybxeesC6",
 status:"active"
 },
@@ -149,7 +149,7 @@ status:"active"
 {
 name:"Calibration Modern",
 owner:"Ahmad Nasraddin",
-phone1:"+964 782 557 6825",
+phone1:"07825576825",
 phone2:" ",
 location:" https://maps.app.goo.gl/uDd14ByFswCP9CpcA?g_st=iw",
 status:"active"
@@ -162,7 +162,7 @@ status:"active"
 name:"Chaina Tower",
 owner:"",
 phone1:"",
-phone2:" ",
+phone2:"",
 location:"https://maps.app.goo.gl/pDVdywBdk4GLV2zR7",
 status:"active"
 },
@@ -222,6 +222,18 @@ location:"https://maps.app.goo.gl/GYWpKJd4oooZqbSt7",
 status:"active"
 },
 
+//E
+    {
+name:"Evarest Lab",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/4wXRL5Q1TaaYNewG6",
+status:"active"
+},
+
+
+    
 //F
 
 {
@@ -293,7 +305,7 @@ status:"active"
 {
 name:"Hanzo Hotel",
 owner:"Rzgar",
-phone1:"+964 750 805 4542",
+phone1:"07508054542",
 phone2:" ",
 location:"https://maps.app.goo.gl/qdsNC6PzKCPiPDjKA",
 status:"active"
@@ -303,7 +315,7 @@ status:"active"
 {
 name:"Haware Hawler 2 (Camp)",
 owner:"Nawar IT manager",
-phone1:"+964 783 577 9253",
+phone1:"07835779253",
 phone2:" ",
 location:"https://maps.app.goo.gl/8MhFnncGykc6kaEh6",
 status:"active"
@@ -362,8 +374,24 @@ location:"https://maps.app.goo.gl/6fpF9GBEAn14ZTxHA",
 status:"active"
 },
 
+{
+name:"Ice Land Resturant",
+owner:"Mustafa",
+phone1:"07507822823",
+phone2:" ",
+location:"https://maps.app.goo.gl/hV6XvRnayKoSmAVe8",
+status:"active"
+},
 
-
+{
+name:"Istanbul plastic (Green Control)",
+owner:"Muhamad",
+phone1:"07505851585",
+phone2:" ",
+location:"https://maps.app.goo.gl/spNXR4Ame9yTsCJs7",
+status:"deactive  18/4/2026"
+},
+    
 //J
    
 {
@@ -479,7 +507,7 @@ status:"active"
 {
 name:"Male Gashtearan",
 owner:"",
-phone1:"+964 750 853 3333",
+phone1:"07508533333",
 phone2:" ",
 location:"https://maps.app.goo.gl/RsHBJRckY6AXTA4q7",
 status:"active"
@@ -518,7 +546,7 @@ status:"active"
 {
 name:"Najm Iskan Cafe",
 owner:"bhrnk",
-phone1:"+964 770 129 9532",
+phone1:"07701299532",
 phone2:" ",
 location:"https://maps.app.goo.gl/Sp9aQdvNndkBqWfq5",
 status:"active"
@@ -548,7 +576,7 @@ status:"active"
   {
 name:"Oscar Hotel",
 owner:"",
-phone1:"+964 750 420 1089",
+phone1:"07504201089",
 phone2:" ",
 location:"https://maps.app.goo.gl/ACkEhvGuMdSwQXY28",
 status:"active"
@@ -744,7 +772,14 @@ location:"https://maps.app.goo.gl/aNM6GgW6nCodXWS1A",
 status:"active"
 },
 
-
+{
+name:"Show Market",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Egq33zHScMqCtAVU8",
+status:"active"
+},
  {
 name:"Sky Bavari",
 owner:"",
@@ -810,7 +845,7 @@ status:"active"
   {
 name:"Top Shisha",
 owner:"Wshyar",
-phone1:"07503370829 top shisha",
+phone1:"07503370829",
 phone2:" ",
 location:"https://maps.app.goo.gl/v51fjC9MVd5oueSs6",
 status:"active"
@@ -857,7 +892,7 @@ status:"active"
 {
 name:"Washnton Hotel",
 owner:"Dlovan",
-phone1:"+964 750 422 0123",
+phone1:"07504220123",
 phone2:" ",
 location:"https://maps.app.goo.gl/PXN3yPVfCVr5suuZ9",
 status:"active"
