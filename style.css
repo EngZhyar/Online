@@ -176,3 +176,10 @@ opacity:0;
 visibility:hidden;
 }
 }
+
+
+.deactive-item{
+background:#ff4d4d;
+color:white;
+}
+
