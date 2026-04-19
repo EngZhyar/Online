@@ -686,6 +686,16 @@ location:"https://maps.app.goo.gl/hsJuq3syPHPPPEbu7",
 status:"active"
 },
 
+{
+name:"Rafaa Motel and Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/K8HUgAevYeSkKJT98",
+status:"active"
+},
+
+    
   {
 name:"Rihat Hotel",
 owner:"",
