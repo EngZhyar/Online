@@ -956,7 +956,7 @@ document.getElementById("search").placeholder =
     
 });
 }
-}
+
 
 // ✅ FIX HERE
 function showDetails(item){
