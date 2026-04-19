@@ -942,15 +942,20 @@ const div = document.createElement("div");
 div.className = "list-item";
 div.innerText = item.name;
 
-// ✅ FIX HERE
+// ✅ ADD THIS
+if(item.status.toLowerCase().includes("deactive")){
+    div.classList.add("deactive-item");
+}
+
 div.onclick = () => showDetails(item);
 
 list.appendChild(div);
 
-   document.getElementById("search").placeholder =
-        "Search... (" + items.length + " Sites)";
+document.getElementById("search").placeholder =
+    "Search... (" + items.length + " Sites)";
     
 });
+}
 }
 
 // ✅ FIX HERE
