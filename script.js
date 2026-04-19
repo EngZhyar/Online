@@ -943,7 +943,7 @@ div.className = "list-item";
 div.innerText = item.name;
 
 // ✅ ADD THIS
-if(item.status.toLowerCase().includes("deactive")){
+if(item.status && item.status.toLowerCase().includes("deactive")){
     div.classList.add("deactive-item");
 }
 
