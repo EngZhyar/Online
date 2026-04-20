@@ -491,6 +491,16 @@ location:"https://maps.app.goo.gl/woCq2CSZmFnf84th6",
 status:"active"
 },
 
+{
+name:"London Glass",
+owner:"Farman",
+phone1:"07517835960‬ ",
+phone2:" ",
+location:"https://maps.app.goo.gl/UvCJXbh5F8sGczz17",
+status:"deactive 20/4/2026"
+},
+
+    
 //M
 
     {
