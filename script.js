@@ -380,7 +380,7 @@ owner:"Mustafa",
 phone1:"07507822823",
 phone2:" ",
 location:"https://maps.app.goo.gl/hV6XvRnayKoSmAVe8",
-status:"active"
+status:"deactive  20/4/2026"
 },
 
 {
