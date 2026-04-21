@@ -144,6 +144,16 @@ location:"https://maps.app.goo.gl/Jespit5tvWk5bghbA",
 status:"active"
 },
 
+    {
+name:"Burj Madrid",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/kHBzA1RvPNMGVMuT8",
+status:"active"
+},
+    
+
 //C
 
 {
