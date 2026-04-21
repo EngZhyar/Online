@@ -800,6 +800,16 @@ phone2:" ",
 location:"https://maps.app.goo.gl/Egq33zHScMqCtAVU8",
 status:"active"
 },
+
+{
+name:"Sinaia palace",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/qzT13dVKxVP4EnDe7",
+status:"active"
+},
+    
  {
 name:"Sky Bavari",
 owner:"",
