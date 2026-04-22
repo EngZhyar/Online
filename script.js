@@ -8,25 +8,49 @@ window.onload = function(){
 };
 
 const data = [
-    //A
+
 
 {
-name:"AD Hotel 1",
+name:"18 Shubat",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/EXwEQ19zhzosbX7g9",
+location:"https://maps.app.goo.gl/PW9su1z6MLq1hYis6",
 status:"active"
 },
     
+    //A
+
 {
-name:"AD Motel 2",
+name:"AD Hotel",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/JoA1HgcsHmDMQSgM7",
+location:"https://maps.app.goo.gl/CYQ4gU7WJJkmNZ8d7",
 status:"active"
 },
+
+
+{
+name:"AD2 Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/bRo7hEHXcytedDgr6",
+status:"active"
+},
+
+
+{
+name:"AD2 Motel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Bq9YSSvTXNbfotDi6",
+status:"active"
+},
+
+
 
 
 {
@@ -40,6 +64,26 @@ status:"active"
 
     
 {
+name:"Alnakhel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/8GtZH2feUgVJq6fr7",
+status:"active"
+},
+
+    
+{
+name:"Alsndyan",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/zYgmhxWav4g3QaxU9",
+status:"active"
+},
+
+    
+{
 name:"Alsyaha",
 owner:"",
 phone1:"",
@@ -48,6 +92,17 @@ location:"https://maps.app.goo.gl/KuD952p4JaLHjxUX6",
 status:"active"
 },
 
+
+
+{
+name:"Alwazer",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/A8tSyWGrmaQLYAFA9",
+status:"active"
+},
+    
     {
 name:"Aman Company",
 owner:"",
@@ -76,9 +131,39 @@ location:"https://maps.app.goo.gl/sp64ry1Jx9NvwSGb9",
 status:"active"
 },
 
+    
+{
+name:"Avan Gard",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/qqS3SzrT1Y4syCrA6",
+status:"active"
+},
+
 
 
 //B
+
+{
+name:"Baghe Halabja",
+owner:"",
+phone1:"07503615920",
+phone2:" ",
+location:"https://maps.app.goo.gl/v51fjC9MVd5oueSs6",
+status:"active"
+},
+
+
+{
+name:"Bahari Kar",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/81Tp6jUpq4S3SFcP9",
+status:"active"
+},
+    
 {
 name:"Bahare Kar Shorsh",
 owner:"",
@@ -96,6 +181,17 @@ phone2:"",
 location:"https://maps.app.goo.gl/wzug68QLgDxPELrM8?g_st=iw",
 status:"deactive  29/3/2026"
 },
+
+{
+name:"Balla School",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/y25JyjxctppeMFDH7",
+status:"active"
+},
+
+
     
 {
 name:"Balaxany Haji Salam",
@@ -107,11 +203,11 @@ status:"active"
 },
     
 {
-name:"Baxe Halabja",
+name:"Blue Corner 1",
 owner:"",
-phone1:"07503615920",
+phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/v51fjC9MVd5oueSs6",
+location:"https://maps.app.goo.gl/hSJHkazNHvSDESrD9",
 status:"active"
 },
 
