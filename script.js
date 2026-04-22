@@ -252,6 +252,8 @@ status:"active"
 
 //C
 
+
+    
 {
 name:"Calibration Modern",
 owner:"Ahmad Nasraddin",
@@ -261,6 +263,14 @@ location:" https://maps.app.goo.gl/uDd14ByFswCP9CpcA?g_st=iw",
 status:"active"
 },
 
+    {
+name:"Candle",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/VSpCFBNEyhhrdaFu5",
+status:"active"
+},
 
 
 
@@ -270,6 +280,15 @@ owner:"",
 phone1:"",
 phone2:"",
 location:"https://maps.app.goo.gl/pDVdywBdk4GLV2zR7",
+status:"active"
+},
+
+    {
+name:"Corner Cake",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/ZmRoa6gmDdnAZ9Sb7",
 status:"active"
 },
 
@@ -317,6 +336,14 @@ status:"active"
 }
 ,
 
+{
+name:"Diwan Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/oUH8zPQQznAzGE4n9",
+status:"active"
+},
 
 
 {
