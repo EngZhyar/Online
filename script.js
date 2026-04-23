@@ -785,6 +785,17 @@ status:"active"
 
 //L
 
+
+{
+name:"Laliga Caffe",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/AFAHjPa5okRPjHoS8",
+status:"active"
+},
+
+    
 {
 name:"Lantana Motel",
 owner:"",
@@ -794,6 +805,27 @@ location:"https://maps.app.goo.gl/woCq2CSZmFnf84th6",
 status:"active"
 },
 
+    
+{
+name:"Layali Erbil",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/og3Tcw2QFkM7Ydj58",
+status:"active"
+},
+
+
+
+{
+name:"Lilan(gooldn night)",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/GFSQFzo6FjfB3Bh3A",
+status:"active"
+},
+    
 {
 name:"London Glass",
 owner:"Farman",
@@ -802,6 +834,17 @@ phone2:" ",
 location:"https://maps.app.goo.gl/UvCJXbh5F8sGczz17",
 status:"deactive 20/4/2026"
 },
+
+    
+{
+name:"Lucky City Caffe",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Scojr7rocN3xnFkj8",
+status:"active"
+},
+
 
     
 //M
@@ -835,7 +878,17 @@ location:"https://maps.app.goo.gl/AfmANnU6cq18mpBA6",
 status:"active"
 },
 
+{
+name:"Masaa Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/kQvYexAKQPauvWqj9",
+status:"active"
+},
 
+
+    
 {
 name:"Masguf Restorant",
 owner:"",
@@ -846,6 +899,17 @@ status:"active"
 },
 
 {
+name:"Mirawa Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/5TemmWU7jt5fwXfm8",
+status:"active"
+},
+
+    
+    
+{
 name:"MM Crane",
 owner:"",
 phone1:"",
@@ -853,6 +917,25 @@ phone2:" ",
 location:"https://maps.app.goo.gl/jZBhDLqsijtSngKs8",
 status:"active"
 },
+
+    {
+name:"Mseelan Company",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/yiuvHFC1Ew3zWJTT7",
+status:"active"
+},
+
+{
+name:"Muhanad Grup Cars",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/4JuGTE9pHS2uWoLL7",
+status:"active"
+},
+    
 
 //N
 
@@ -875,6 +958,27 @@ phone2:" ",
 location:"https://maps.app.goo.gl/UNWLKUQEEwgiWJ2x6",
 status:"active"
 },
+
+{
+name:"Nelufar High School",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/uknQ8isHRsmxdUqe6",
+status:"active"
+},
+
+{
+name:"Nergz Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/TwXuFHBndRKRp7Km8",
+status:"active"
+},
+
+
+    
 //O
 
 {
