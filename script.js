@@ -610,6 +610,19 @@ location:"https://maps.app.goo.gl/hV6XvRnayKoSmAVe8",
 status:"deactive  20/4/2026"
 },
 
+
+
+{
+name:"Ishk School",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/sL78C5y9T2TbvuMF7",
+status:"active"
+},
+
+
+
 {
 name:"Istanbul plastic (Green Control)",
 owner:"Muhamad",
@@ -620,7 +633,29 @@ status:"deactive  18/4/2026"
 },
     
 //J
-   
+
+
+
+{
+name:"Jabal Hussen",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Fsufp5L4jYygruis6",
+status:"active"
+},
+
+    
+{
+name:"Janat Bludan",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/WuVAvTawoD6o4eLF7",
+status:"active"
+},
+
+    
 {
 name:"Jegr Palace Hotel",
 owner:"",
@@ -630,6 +665,15 @@ location:"https://maps.app.goo.gl/U2VS8QuAAXmeUwt68",
 status:"active"
 }, 
   
+
+{
+name:"Joker Caffe",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/vczUYwuewRq4NkzW6",
+status:"active"
+},
 
 
 //K
@@ -662,6 +706,15 @@ status:"active"
 },
 
 {
+name:"Kdoor",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/FxP3BVoEjg2jA7rN8",
+status:"active"
+},
+    
+{
 name:"Khalat",
 owner:"",
 phone1:"",
@@ -681,7 +734,7 @@ status:"active"
 
 
 {
-name:"King School",
+name:"King School Ankawa",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -698,6 +751,29 @@ location:"https://www.google.com/maps?q=36.20460510253906,43.98479080200195&z=17
 status:"active"
 },
 
+    
+{
+name:"Kmm Steel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/abM8HuWsZyWik6Yy6",
+status:"active"
+},
+
+
+    
+{
+name:"Komalgay Regay Rozh Halat",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Za7EwieFm4gajiWM6",
+status:"active"
+},
+
+
+    
 {
 name:"Koshki Rashid",
 owner:"",
