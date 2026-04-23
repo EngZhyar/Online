@@ -1374,8 +1374,16 @@ phone2:" ",
 location:"https://maps.app.goo.gl/erxAP6j7ktWNZ4Ru8",
 status:"active"
 },
+//U
 
-
+{
+name:"Um Kalthum",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Nb4ybT3sjfHEpf3g8",
+status:"active"
+},
 
 //V
 
@@ -1423,6 +1431,16 @@ location:"https://maps.app.goo.gl/ayVdEkSri7vh9DHM7",
 status:"active"
 },
 
+
+{
+name:"Yanabeaa Alref",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/ejdAZhskUuV2Byf68",
+status:"active"
+},
+    
 {
 name:"Yummy Company",
 owner:"",
@@ -1436,6 +1454,15 @@ status:"active"
 //Z
 
 {
+name:"Z H Caffe",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/iKzzAJAFmNnYFpJU6",
+status:"active"
+},
+    
+{
 name:"Zarawa Company",
 owner:"",
 phone1:"",
@@ -1443,6 +1470,18 @@ phone2:" ",
 location:"https://maps.app.goo.gl/ngXUh8XCRyYnDDUV8?g_st=aw",
 status:"active"
 }
+
+,
+{
+name:"Zharawa Grup",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/PZ4Kcy5Bj8q3RueKA",
+status:"active"
+}
+
+    
 ];
 
 const list = document.getElementById("list");
