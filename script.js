@@ -391,6 +391,15 @@ status:"deactive 5/4/2026"
 //G
 
 {
+name:"Galaxy Hall",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/nu5vuubU1LbUFvv67",
+status:"active"
+},
+    
+{
 name:"Gasha School",
 owner:"",
 phone1:"",
@@ -400,6 +409,14 @@ status:"active"
 },
 
 
+{
+name:"Gawar Company",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Zz2YGzBnbxixgcAs7",
+status:"active"
+},
 
     
 {
@@ -414,6 +431,83 @@ status:"active"
 
 
 //H
+
+
+{
+name:"Hafta Bazar 1",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/H9iTViA9kB5Lq5758",
+status:"active"
+},
+
+
+
+{
+name:"Hafta Bazar 3",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/YKmdriHeE72jwtYQ9",
+status:"active"
+},
+
+{
+name:"Hafta Bazar 7",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/pzxNyCMQvBeMDVJ89",
+status:"active"
+},
+
+
+
+
+{
+name:"Hafta Bazar 8",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/NQYNLCqZQVksqsHQ9",
+status:"active"
+},
+
+
+{
+name:"Hafta Bazar 9",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/WAATYfHjRf15p3fB8",
+status:"active"
+},
+
+
+
+
+{
+name:"Hafta Bazar 10",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/K3gqEu6ZaCzMEGoV6",
+status:"active"
+},
+
+    
+
+{
+name:"Haji salam tower",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/8B3oBV4eGrQiwCza9",
+status:"active"
+},
+
+    
 
     {
 name:"Halal Market",
