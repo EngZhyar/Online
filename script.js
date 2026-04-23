@@ -1000,7 +1000,7 @@ status:"active"
 },
 
 {
-name:"Osman Kalazher",
+name:"Osmani Kalazher",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -1022,7 +1022,16 @@ status:"active"
 },
 
 
-    
+
+{
+name:"Pan Factory",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/zfG1ZrxBqAi33hWK9",
+status:"active"
+},
+
 {
 name:"Panda Company",
 owner:"",
@@ -1060,6 +1069,18 @@ phone2:" ",
 location:"https://maps.app.goo.gl/kG7nL1DyJXAAPLTXA",
 status:"active"
 },
+
+
+    
+{
+name:"Peshmarga Hospital",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/tNvD5sgx6YJBAE7k6",
+status:"active"
+},
+    
 
   {
 name:"Pop Cafe",
@@ -1160,6 +1181,17 @@ location:"https://maps.app.goo.gl/xHvta8wnCXpEauJFA",
 status:"active"
 },
 
+
+{
+name:"Shahan Company",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/1UkxywWH84wASJqS8",
+status:"active"
+},
+
+    
 {
 name:"Shahid Shawkat",
 owner:"",
@@ -1237,6 +1269,24 @@ location:"https://maps.app.goo.gl/Xn8pExEzvsiEV8fe7",
 status:"active"
 },
 
+{
+name:"Sky Qandel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/DkaFXbzHKWk76EX17",
+status:"active"
+},
+
+ {
+name:"Smart Company",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/oV3YhAXjrhHr2o8w8",
+status:"active"
+},
+   
 
 {
 name:"SoulMate Hotel",
@@ -1268,6 +1318,14 @@ status:"active"
 //T
 
 
+{
+name:"Taj Sedra hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/BHR5ZnQXFUZWRMZY7",
+status:"active"
+},
 
 {
 name:"Tavgay hadara",
@@ -1278,6 +1336,14 @@ location:"https://maps.app.goo.gl/vGNRSp1d3m57Lyv89",
 status:"active"
 },
 
+    {
+name:"Teammart Kwestan",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/JWevQrjcTFfNp8DV8",
+status:"active"
+},
     
   {
 name:"Top Shisha",
@@ -1288,6 +1354,17 @@ location:"https://maps.app.goo.gl/v51fjC9MVd5oueSs6",
 status:"active"
 },
 
+
+{
+name:"Trisa Company",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/yqPm4nBAS9tkirk59",
+status:"active"
+},
+
+    
 
         {
 name:"Tulya Hotel",
