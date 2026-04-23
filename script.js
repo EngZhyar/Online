@@ -520,7 +520,7 @@ status:"active"
 
 
 {
-name:"Halqa Nadafa",
+name:"Halqa Nazafa",
 owner:"",
 phone1:"",
 phone2:" ",
