@@ -751,6 +751,17 @@ location:"https://www.google.com/maps?q=36.20460510253906,43.98479080200195&z=17
 status:"active"
 },
 
+
+
+{
+name:"Kmk",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/uKMssmLr7UdK1RUT9",
+status:"deactive  26/4/2026"
+},
+    
     
 {
 name:"Kmm Steel",
@@ -1221,9 +1232,18 @@ location:"https://maps.app.goo.gl/XWDcunjxiSQ2cHfw6",
 status:"active"
 },
 
+    {
+name:"Shoof",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/waxKkb5MDjnGUo6r8",
+status:"active"
+},
+
 
 {
-name:"Shoof",
+name:"Shoof Mamzawa",
 owner:"",
 phone1:"",
 phone2:" ",
