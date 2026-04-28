@@ -3,7 +3,7 @@ window.onload = function(){
 
     setTimeout(function(){
         document.getElementById("loadingScreen").style.display="none";
-    }, 3000);
+    }, 1000);
 
 };
 
@@ -1442,14 +1442,6 @@ status:"active"
 
 
 //Y
-    {
-name:"Yanabee",
-owner:"Fardy Hussen",
-phone1:"07507478659",
-phone2:" ",
-location:"https://maps.app.goo.gl/ayVdEkSri7vh9DHM7",
-status:"active"
-},
 
 
 {
