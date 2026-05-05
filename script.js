@@ -62,6 +62,16 @@ location:"https://maps.app.goo.gl/T1Rm9kXQPdmcWiQeA",
 status:"active"
 },
 
+  {
+name:"Akram Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/6Co1maKDeSrbgVYz5",
+status:"active"
+},
+
+    
     
 {
 name:"Alnakhel",
@@ -124,8 +134,8 @@ status:"active"
 
 {
 name:"Ararat Hotel",
-owner:"",
-phone1:"",
+owner:"Mazlum",
+phone1:"07800807220",
 phone2:" ",
 location:"https://maps.app.goo.gl/sp64ry1Jx9NvwSGb9",
 status:"active"
@@ -735,6 +745,17 @@ status:"active"
 
 {
 name:"King School Ankawa",
+owner:"Ahmad",
+phone1:"07507981006",
+phone2:" ",
+location:"https://maps.app.goo.gl/VtGqeEGCMWvqqXq3A",
+status:"active"
+},
+
+
+
+{
+name:"King School Nusaran",
 owner:"",
 phone1:"",
 phone2:" ",
@@ -742,6 +763,7 @@ location:"https://maps.app.goo.gl/mwWHMNqsUhM5Jauj6",
 status:"active"
 },
 
+    
 {
 name:"King school wazeran",
 owner:"Ziad Surchi",
@@ -1015,7 +1037,7 @@ name:"Osmani Kalazher",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/9Ph91rkPD6qq7ytp6",
+location:"https://maps.app.goo.gl/3LadS1dLdGyZxgpy9",
 status:"active"
 },
 
@@ -1281,27 +1303,28 @@ status:"active"
 
 
   {
-name:"Sky Hamrin",
+name:"Sky Hamrin 60m",
 owner:"",
 phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/Xn8pExEzvsiEV8fe7",
-status:"active"
+status:"deactive 2/5/2026"
 },
 
-{
-name:"Sky Qandel",
+      {
+name:"Sky Hamrin 100m",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/DkaFXbzHKWk76EX17",
+location:"https://maps.app.goo.gl/nD54Zd7Dw2ecnAeV9",
 status:"active"
 },
+
 
  {
 name:"Smart Company",
 owner:"",
-phone1:"",
+phone1:"07701076611",
 phone2:" ",
 location:"https://maps.app.goo.gl/oV3YhAXjrhHr2o8w8",
 status:"active"
@@ -1326,6 +1349,16 @@ location:"https://maps.app.goo.gl/9Ph91rkPD6qq7ytp6",
 status:"active"
 },
 
+    {
+name:"Store Food 2",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/fVuKCTQ3ZekshttQ8",
+status:"active"
+},
+
+    
     {
 name:"Sultan Surya",
 owner:"",
