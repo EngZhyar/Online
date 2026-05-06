@@ -164,6 +164,14 @@ location:"https://maps.app.goo.gl/v51fjC9MVd5oueSs6",
 status:"active"
 },
 
+    {
+name:"Baghi Iskan",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/qPozTPGCgFes7yrq5",
+status:"active"
+},
 
 {
 name:"Bahari Kar",
@@ -1273,9 +1281,9 @@ status:"active"
 
 {
 name:"Shoof Mamzawa",
-owner:"",
-phone1:"",
-phone2:" ",
+owner:"Ismail \n Shukre",
+phone1:"07503677222",
+phone2:"07504021573",
 location:"https://maps.app.goo.gl/aNM6GgW6nCodXWS1A",
 status:"active"
 },
