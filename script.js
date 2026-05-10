@@ -225,7 +225,7 @@ name:"Blue Corner 1",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/hSJHkazNHvSDESrD9",
+location:"https://maps.app.goo.gl/1rf7otvpVPKsdW5S8?g_st=aw",
 status:"active"
 },
 
@@ -817,8 +817,8 @@ status:"active"
     
 {
 name:"Koshki Rashid",
-owner:"",
-phone1:"",
+owner:"Ardalan",
+phone1:"07514429199",
 phone2:" ",
 location:"https://maps.app.goo.gl/RgH2wmHgNNJQ8qPv7",
 status:"active"
@@ -1142,8 +1142,8 @@ status:"active"
 
    {
 name:"Qalay Iskan",
-owner:"",
-phone1:"",
+owner:"Abu Luqman",
+phone1:"07507226908",
 phone2:" ",
 location:"https://maps.app.goo.gl/PNLYTtY9xXCKFxn66",
 status:"active"
@@ -1152,8 +1152,8 @@ status:"active"
 
   {
 name:"Qalb Almulk",
-owner:"",
-phone1:"",
+owner:"Hoshmad",
+phone1:"07725690097",
 phone2:" ",
 location:"https://maps.app.goo.gl/WzGC2TkVg1R3MxT58",
 status:"active"
@@ -1211,6 +1211,18 @@ status:"active"
 },
     
 //S
+
+{
+name:"Salwan Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/yStuy4GzazbpTqkT9",
+status:"active"
+},
+
+
+    
 {
 name:"Samad Resturant",
 owner:"",
@@ -1220,6 +1232,9 @@ location:"https://maps.app.goo.gl/DKDEhn7tkrMacXgN9",
 status:"active"
 },
 
+
+
+    
   {
 name:"Seveer Hotel",
 owner:"",
