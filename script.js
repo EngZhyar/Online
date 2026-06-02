@@ -219,6 +219,17 @@ phone2:" ",
 location:"https://maps.app.goo.gl/NaufaTS7rZnqBhWP9",
 status:"active"
 },
+
+{
+name:"Balaxanay Salwan",
+owner:"",
+phone1:"07507518888",
+phone2:" ",
+location:"https://maps.app.goo.gl/yStuy4GzazbpTqkT9",
+status:"active"
+},
+
+
     
 {
 name:"Blue Corner 1",
@@ -363,6 +374,26 @@ location:"https://maps.app.goo.gl/oUH8zPQQznAzGE4n9",
 status:"active"
 },
 
+{
+name:"DoDo",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/c4zqQz9GDZYbBvvp9",
+status:"active"
+},
+    
+
+{
+name:"Dragon Cafe",
+owner:"",
+phone1:"07501303830",
+phone2:" ",
+location:"https://maps.app.goo.gl/ueqACknceXy5tRDH8",
+status:"active"
+},
+
+    
 
 {
 name:"Dwnay Hotel",
@@ -689,7 +720,7 @@ name:"Joker Caffe",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/vczUYwuewRq4NkzW6",
+location:"https://maps.app.goo.gl/qfF8eMSnng428A5GA",
 status:"active"
 },
 
@@ -996,6 +1027,14 @@ location:"https://maps.app.goo.gl/Sp9aQdvNndkBqWfq5",
 status:"active"
 },
 
+    {
+name:"Najm syaha",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Li1EzB8qZ4dcosji8",
+status:"active"
+},
 
 
     {
@@ -1031,8 +1070,8 @@ status:"active"
 
 {
 name:"Omer Tank",
-owner:"",
-phone1:"",
+owner:"Abdulla",
+phone1:"07504454999",
 phone2:" ",
 location:"https://maps.app.goo.gl/Y8EnuuMNeEXjfxcC6",
 status:"active"
@@ -1212,14 +1251,6 @@ status:"active"
     
 //S
 
-{
-name:"Salwan Hotel",
-owner:"",
-phone1:"",
-phone2:" ",
-location:"https://maps.app.goo.gl/yStuy4GzazbpTqkT9",
-status:"active"
-},
 
 
     
@@ -1464,7 +1495,7 @@ name:"Um Kalthum",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/Nb4ybT3sjfHEpf3g8",
+location:"https://maps.app.goo.gl/1YBm1D3uCKoqnZaf6",
 status:"active"
 },
 
@@ -1484,7 +1515,7 @@ status:"active"
 {
 name:"Vote 2 hotel",
 owner:"",
-phone1:"",
+phone1:"07501405872",
 phone2:" ",
 location:"https://maps.app.goo.gl/SE7BHmV3u33spxHJ8",
 status:"active"
