@@ -754,6 +754,15 @@ location:"https://maps.app.goo.gl/Wm14g6GAshzCNkFU9",
 status:"active"
 },
 
+    {
+name:"Kawkab Jamal",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/G5jvicCZHwvoJKhJ8",
+status:"active"
+},
+
 {
 name:"Kdoor",
 owner:"",
@@ -1220,7 +1229,14 @@ location:"https://maps.app.goo.gl/K8HUgAevYeSkKJT98",
 status:"active"
 },
 
-    
+    {
+name:"Red Rose Hotel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/9Mk46fiwtZCmfb1Y7",
+status:"deactive  4/6/2026"
+},
   {
 name:"Rihat Hotel",
 owner:"",
