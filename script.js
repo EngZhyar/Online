@@ -1546,6 +1546,16 @@ phone2:" ",
 location:"https://maps.app.goo.gl/ejdAZhskUuV2Byf68",
 status:"active"
 },
+
+{
+name:"Yarco Company",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/7f3fePfpAruGVye59",
+status:"active"
+},
+    
     
 {
 name:"Yummy Company",
