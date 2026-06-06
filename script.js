@@ -1007,11 +1007,11 @@ status:"active"
 },
 
     {
-name:"Mseelan Company",
-owner:"",
-phone1:"",
+name:"Mseelan Company (FUSO)",
+owner:"Khalid",
+phone1:"07515082143",
 phone2:" ",
-location:"https://maps.app.goo.gl/yiuvHFC1Ew3zWJTT7",
+location:"https://maps.app.goo.gl/wZiqwqjq2zJvjqsX6",
 status:"active"
 },
 
