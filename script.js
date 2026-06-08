@@ -295,7 +295,7 @@ status:"active"
     {
 name:"Candle",
 owner:"",
-phone1:"",
+phone1:"07507319989",
 phone2:" ",
 location:"https://maps.app.goo.gl/VSpCFBNEyhhrdaFu5",
 status:"active"
@@ -691,7 +691,7 @@ owner:"",
 phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/Fsufp5L4jYygruis6",
-status:"active"
+status:"deaactive  6/8/2026"
 },
 
     
