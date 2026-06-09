@@ -312,6 +312,17 @@ location:"https://maps.app.goo.gl/pDVdywBdk4GLV2zR7",
 status:"active"
 },
 
+{
+name:"Cihan",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/grjpSqmeNyLbJQj66",
+status:"active"
+},
+
+    
+
     {
 name:"Corner Cake",
 owner:"",
