@@ -58,7 +58,7 @@ name:"Ahin Motel",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/T1Rm9kXQPdmcWiQeA",
+location:"https://maps.app.goo.gl/t6tTskBu7ZavvrYt7",
 status:"active"
 },
 
@@ -183,7 +183,7 @@ status:"active"
 },
     
 {
-name:"Bahare Kar Shorsh",
+name:"Bahare Kar Shorsh (Shahan)",
 owner:"",
 phone1:"07721718657",
 phone2:" ",
@@ -1078,9 +1078,9 @@ status:"active"
 {
 name:"Nergz Hotel",
 owner:"",
-phone1:"",
+phone1:"07508219769",
 phone2:" ",
-location:"https://maps.app.goo.gl/TwXuFHBndRKRp7Km8",
+location:"https://maps.app.goo.gl/DHKusTbQEnwS3yUn6",
 status:"active"
 },
 
