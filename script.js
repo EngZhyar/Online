@@ -71,6 +71,15 @@ location:"https://maps.app.goo.gl/6Co1maKDeSrbgVYz5",
 status:"active"
 },
 
+
+    {
+name:"Alhaditha",
+owner:"Ahmad Nasraddin",
+phone1:"07825576825",
+phone2:" ",
+location:" https://maps.app.goo.gl/uDd14ByFswCP9CpcA?g_st=iw",
+status:"active"
+},
     
     
 {
@@ -1438,7 +1447,7 @@ status:"active"
 },
 
     {
-name:"Store Food 2",
+name:"Store Food 1&2",
 owner:"",
 phone1:"",
 phone2:" ",
