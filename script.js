@@ -402,7 +402,16 @@ phone2:" ",
 location:"https://maps.app.goo.gl/c4zqQz9GDZYbBvvp9",
 status:"active"
 },
-    
+
+
+    {
+name:"Dorsa Restaurant",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/sHaWqCKHYkAp4ukz5",
+status:"active"
+},
 
 {
 name:"Dragon Cafe",
@@ -746,6 +755,17 @@ status:"active"
 
 
 //K
+
+{
+name:"Kanars motel",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/Xzq47QPXcUwg2zoY9",
+status:"active"
+},
+
+    
 {
 name:"Kani Chya Hotel",
 owner:"",
