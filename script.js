@@ -926,6 +926,15 @@ location:"https://maps.app.goo.gl/woCq2CSZmFnf84th6",
 status:"active"
 },
 
+{
+name:"Lastella Cafe",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/kd3SoLMvgSoxSVWG8",
+status:"active"
+},
+    
     
 {
 name:"Layali Erbil",
