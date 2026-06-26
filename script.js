@@ -1119,7 +1119,7 @@ owner:"",
 phone1:"07508219769",
 phone2:" ",
 location:"https://maps.app.goo.gl/DHKusTbQEnwS3yUn6",
-status:"active"
+status:"deactive  6/25/2026 "
 },
 
 
