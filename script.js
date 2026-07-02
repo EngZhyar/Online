@@ -81,6 +81,14 @@ location:" https://maps.app.goo.gl/uDd14ByFswCP9CpcA?g_st=iw",
 status:"active"
 },
     
+    {
+name:"al markazya",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/QQm9k7NDBHnaHXND6",
+status:"active"
+},
     
 {
 name:"Alnakhel",
@@ -660,7 +668,7 @@ name:"Hyper Post (Koga)",
 owner:"",
 phone1:"",
 phone2:" ",
-location:"https://maps.app.goo.gl/ZFmQ1UyLf8923SdF9",
+location:"https://maps.app.goo.gl/m9gkoPvB5ASQsXWU6",
 status:"active"
 },
 
