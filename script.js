@@ -1389,7 +1389,7 @@ status:"active"
 },
 
     {
-name:"Shoof",
+name:"Shoof (lemogd)",
 owner:"",
 phone1:"",
 phone2:" ",
