@@ -1177,7 +1177,7 @@ status:"active"
 
 
 {
-name:"Pan Factory",
+name:"Pan Factory (Rhino)",
 owner:"",
 phone1:"",
 phone2:" ",
