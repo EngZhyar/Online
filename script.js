@@ -1506,7 +1506,7 @@ status:"active"
 
 
 {
-name:"Taj Sedra hotel",
+name:"Taj Sedar hotel",
 owner:"",
 phone1:"",
 phone2:" ",
