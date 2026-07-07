@@ -11,8 +11,19 @@
 <body>
     <div id="loadingScreen"> <img src="background.png" id="introImage"> </div>
     <div class="container">
-        <h1>Erbil</h1> <input type="text" id="search" placeholder="Search...">
-        <div id="list"></div>
+        <h1>Erbil</h1>
+        
+        <!-- SEARCH ROW WITH FILTER BUTTONS -->
+        <div class="search-row">
+            <input type="text" id="search" placeholder="Search...">
+            <div class="filter-buttons">
+                <button class="filter-btn active-filter" id="activeFilterBtn">Active</button>
+                <button class="filter-btn" id="deactiveFilterBtn">Deactive</button>
+            </div>
+        </div>
+
+        <div id="list"></div
+
         <div id="popup" class="popup">
             <h2 id="popupName"></h2>
             <p id="owner">ناو</p>
