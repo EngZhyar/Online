@@ -1,11 +1,10 @@
-
-window.onload = function(){
-
-    setTimeout(function(){
-        document.getElementById("loadingScreen").style.display="none";
+window.onload = function() {
+    setTimeout(function() {
+        document.getElementById("loadingScreen").style.display = "none";
     }, 1000);
-
 };
+
+
 
 const data = [
 
@@ -1675,83 +1674,134 @@ status:"active"
 
 const list = document.getElementById("list");
 const popup = document.getElementById("popup");
+const searchInput = document.getElementById("search");
+const activeBtn = document.getElementById("activeFilterBtn");
+const deactiveBtn = document.getElementById("deactiveFilterBtn");
 
-function displayList(items){
-list.innerHTML = "";
+// Current filter state: 'all', 'active', 'deactive'
+let currentFilter = 'active';
 
-items.forEach((item) => {
-const div = document.createElement("div");
-div.className = "list-item";
-div.innerText = item.name;
+function displayList(items) {
+    list.innerHTML = "";
 
-// ✅ ADD THIS
-if(item.status && item.status.toLowerCase().includes("deactive")){
-    div.classList.add("deactive-item");
+    items.forEach((item) => {
+        const div = document.createElement("div");
+        div.className = "list-item";
+        div.innerText = item.name;
+
+        // Check if item is deactive
+        if (item.status && item.status.toLowerCase().includes("deactive")) {
+            div.classList.add("deactive-item");
+        }
+
+        div.onclick = () => showDetails(item);
+        list.appendChild(div);
+    });
+
+    // Update search placeholder with count
+    searchInput.placeholder = "Search... (" + items.length + " Sites)";
 }
 
-div.onclick = () => showDetails(item);
+function showDetails(item) {
+    document.getElementById("popupName").innerText = item.name;
+    document.getElementById("owner").innerText = "Name: " + item.owner;
+    document.getElementById("phone1").innerText = "Phone No. 1: " + item.phone1;
+    document.getElementById("phone2").innerText = "Phone No. 2: " + item.phone2;
+    document.getElementById("mapLink").href = item.location;
 
-list.appendChild(div);
+    const statusElement = document.getElementById("status");
+    statusElement.innerText = "Status: " + item.status;
 
-document.getElementById("search").placeholder =
-    "Search... (" + items.length + " Sites)";
-    
+    // Check if status contains "deactive" (case insensitive)
+    if (item.status && item.status.toLowerCase().includes("deactive")) {
+        statusElement.className = "status-deactive";
+    } else {
+        statusElement.className = "status-active";
+    }
+
+    document.getElementById("copy1").onclick = () => {
+        navigator.clipboard.writeText(item.phone1);
+        alert("Phone 1 copied!");
+    };
+
+    document.getElementById("copy2").onclick = () => {
+        navigator.clipboard.writeText(item.phone2);
+        alert("Phone 2 copied!");
+    };
+
+    list.style.display = "none";
+    searchInput.style.display = "none";
+    document.querySelector(".filter-buttons").style.display = "none";
+    popup.style.display = "block";
+}
+
+function goBack() {
+    popup.style.display = "none";
+    list.style.display = "";
+    searchInput.style.display = "block";
+    document.querySelector(".filter-buttons").style.display = "flex";
+    applyFilter(currentFilter);
+}
+
+function filterData(filterType) {
+    let filtered = [];
+
+    if (filterType === 'active') {
+        filtered = data.filter(item => 
+            !item.status || !item.status.toLowerCase().includes("deactive")
+        );
+    } else if (filterType === 'deactive') {
+        filtered = data.filter(item => 
+            item.status && item.status.toLowerCase().includes("deactive")
+        );
+    } else {
+        // 'all' - show everything
+        filtered = [...data];
+    }
+
+    return filtered;
+}
+
+function applyFilter(filterType) {
+    currentFilter = filterType;
+    const filtered = filterData(filterType);
+    displayList(filtered);
+
+    // Update button styles
+    activeBtn.classList.remove('active-filter');
+    deactiveBtn.classList.remove('deactive-filter');
+
+    if (filterType === 'active') {
+        activeBtn.classList.add('active-filter');
+    } else if (filterType === 'deactive') {
+        deactiveBtn.classList.add('deactive-filter');
+    }
+}
+
+// Search functionality
+searchInput.addEventListener("input", function() {
+    const value = this.value.toLowerCase();
+    const filtered = filterData(currentFilter).filter(item =>
+        item.name.toLowerCase().includes(value)
+    );
+    displayList(filtered);
 });
-}
 
-
-// ✅ FIX HERE
-function showDetails(item){
-
-document.getElementById("popupName").innerText = item.name;
-document.getElementById("owner").innerText = "Name: " + item.owner;
-
-document.getElementById("phone1").innerText = "Phone No. 1: " + item.phone1;
-document.getElementById("phone2").innerText = "Phone No. 2: " + item.phone2;
-
-document.getElementById("mapLink").href = item.location;
-
-const statusElement = document.getElementById("status");
-statusElement.innerText = "Status: " + item.status;
-
-statusElement.className = item.status === "active" ? "status-active" : "status-deactive";
-
-document.getElementById("copy1").onclick = () => {
-navigator.clipboard.writeText(item.phone1);
-alert("Phone 1 copied!");
-};
-
-document.getElementById("copy2").onclick = () => {
-navigator.clipboard.writeText(item.phone2);
-alert("Phone 2 copied!");
-};
-
-list.style.display = "none";
-document.getElementById("search").style.display = "none";
-popup.style.display = "block";
-}
-
-function goBack(){
-popup.style.display = "none";
-list.style.display = "";
-document.getElementById("search").style.display = "block";
-displayList(data);
-}
-
-document.getElementById("search").addEventListener("input", function(){
-const value = this.value.toLowerCase();
-
-const filtered = data.filter(item =>
-item.name.toLowerCase().includes(value)
-);
-
-displayList(filtered);
+// Active button click
+activeBtn.addEventListener("click", function() {
+    applyFilter('active');
+    // Clear search when switching filters
+    searchInput.value = '';
+    searchInput.dispatchEvent(new Event('input'));
 });
 
+// Deactive button click
+deactiveBtn.addEventListener("click", function() {
+    applyFilter('deactive');
+    // Clear search when switching filters
+    searchInput.value = '';
+    searchInput.dispatchEvent(new Event('input'));
+});
 
-
-
-
-
-
-displayList(data);
+// Initialize with active filter
+applyFilter('active');
