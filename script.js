@@ -157,6 +157,16 @@ location:"https://maps.app.goo.gl/sp64ry1Jx9NvwSGb9",
 status:"active"
 },
 
+{
+name:"Ashaw Hotel",
+owner:"",
+phone1:"07504675065",
+phone2:" ",
+location:"https://maps.app.goo.gl/CLDEkrZNDhCKSFgb7",
+status:"active"
+},
+
+    
     
 {
 name:"Avan Gard",
