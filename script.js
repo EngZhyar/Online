@@ -201,8 +201,8 @@ status:"active"
 
 {
 name:"Bahari Kar",
-owner:"",
-phone1:"",
+owner:"Mhamad",
+phone1:"07507305251",
 phone2:" ",
 location:"https://maps.app.goo.gl/81Tp6jUpq4S3SFcP9",
 status:"active"
@@ -306,6 +306,16 @@ status:"active"
     
 
 //C
+
+{
+name:"Cactus Restaurant",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/h56BcYjbe9WBsieQ9",
+status:"active"
+},
+
 
 
     
@@ -1099,7 +1109,7 @@ owner:"bhrnk",
 phone1:"07701299532",
 phone2:" ",
 location:"https://maps.app.goo.gl/Sp9aQdvNndkBqWfq5",
-status:"active"
+status:"deactive 15/7/2026"
 },
 
     {
@@ -1540,6 +1550,15 @@ phone2:" ",
 location:"https://maps.app.goo.gl/JWevQrjcTFfNp8DV8",
 status:"active"
 },
+
+    {
+name:"Teammart Regay Gwer",
+owner:"",
+phone1:"",
+phone2:" ",
+location:"https://maps.app.goo.gl/HrovTr3YBEzN4EcG8",
+status:"active"
+},
     
   {
 name:"Top Shisha",
@@ -1578,7 +1597,7 @@ owner:"",
 phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/1YBm1D3uCKoqnZaf6",
-status:"active"
+status:"deactive 15/7/2026"
 },
 
 //V
