@@ -88,6 +88,16 @@ phone2:" ",
 location:"https://maps.app.goo.gl/QQm9k7NDBHnaHXND6",
 status:"active"
 },
+
+{
+name:"Alnajar (jawahiri makhmur)",
+owner:"Muhamad Walid",
+phone1:"+964 750 478 9724",
+phone2:" ",
+location:"https://maps.app.goo.gl/UA2XgCGba1AWDroMA",
+status:"active"
+},
+
     
 {
 name:"Alnakhel",
@@ -832,8 +842,8 @@ status:"active"
 
 {
 name:"Kdoor",
-owner:"",
-phone1:"",
+owner:"barham",
+phone1:"0750 102 0168",
 phone2:" ",
 location:"https://maps.app.goo.gl/FxP3BVoEjg2jA7rN8",
 status:"active"
