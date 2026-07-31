@@ -323,7 +323,7 @@ owner:"",
 phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/h56BcYjbe9WBsieQ9",
-status:"active"
+status:"deactive"
 },
 
 
@@ -1029,7 +1029,7 @@ owner:"",
 phone1:"",
 phone2:" ",
 location:"https://maps.app.goo.gl/bXQkncA7nDHooZwXA",
-status:"active"
+status:"deactive"
 },
 
 
