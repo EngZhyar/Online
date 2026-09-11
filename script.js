@@ -115,7 +115,6 @@ addBtn.addEventListener('click', () => {
     });
 
     resetFormExceptStatAndDate();
-    console.log('Worker added. Current list:', currentWorkers);
 });
 
 // ---------- OK button ----------
@@ -171,66 +170,66 @@ function escapeHtml(text) {
     return div.innerHTML;
 }
 
-// ---------- PDF Download ----------
+// ---------- PDF Download (mobile-safe) ----------
 function loadHtml2Pdf(callback) {
     if (window.html2pdf) { callback(); return; }
     const script = document.createElement('script');
     script.src = 'https://cdnjs.cloudflare.com/ajax/libs/html2pdf.js/0.10.1/html2pdf.bundle.min.js';
     script.onload = callback;
+    script.onerror = () => alert('Failed to load PDF library. Check your internet connection.');
     document.head.appendChild(script);
 }
 
 downloadPdfBtn.addEventListener('click', () => {
-    loadHtml2Pdf(() => {
-        const wrapper = document.createElement('div');
-        wrapper.style.padding = '24px';
-        wrapper.style.fontFamily = 'Segoe UI, Roboto, sans-serif';
-        wrapper.style.background = 'white';
-        wrapper.style.color = '#1c3a57';
+    if (!currentWorkers.length) {
+        alert('No data to export. Add workers and press OK first.');
+        return;
+    }
 
-        // Title
+    loadHtml2Pdf(() => {
+        const isDaily = statType.value === 'daily';
+        const dateLabel = summaryDateLabel.textContent || '—';
+        const total = summaryTotalMoney.textContent || '0.00';
+
+        // Build a simple, self-contained table using inline styles only.
+        // Avoid flex / grid / external CSS so mobile html2canvas renders reliably.
+        const wrapper = document.createElement('div');
+        wrapper.setAttribute('style',
+            'background:#ffffff;color:#1c3a57;padding:20px;' +
+            'font-family:Arial,Helvetica,sans-serif;width:700px;' +
+            'position:fixed;left:-9999px;top:0;'
+        );
+
         const title = document.createElement('h2');
         title.textContent = 'Worker Statistics Report';
-        title.style.color = '#0b2b4b';
-        title.style.marginTop = '0';
-        title.style.marginBottom = '6px';
+        title.setAttribute('style',
+            'color:#0b2b4b;margin:0 0 12px 0;font-size:20px;' +
+            'border-bottom:2px solid #0b2b4b;padding-bottom:6px;'
+        );
         wrapper.appendChild(title);
 
-        // Date + Total
-        const info = document.createElement('div');
-        info.style.display = 'flex';
-        info.style.justifyContent = 'space-between';
-        info.style.alignItems = 'center';
-        info.style.background = '#e9f2fa';
-        info.style.borderRadius = '12px';
-        info.style.padding = '10px 16px';
-        info.style.marginBottom = '16px';
-        info.style.fontWeight = '600';
-        info.style.color = '#0b2b4b';
-
-        const dateSpan = document.createElement('span');
-        dateSpan.textContent = 'Date: ' + summaryDateLabel.textContent;
-        const totalSpan = document.createElement('span');
-        totalSpan.textContent = 'Total money: ' + summaryTotalMoney.textContent;
-        info.appendChild(dateSpan);
-        info.appendChild(totalSpan);
+        const info = document.createElement('p');
+        info.setAttribute('style',
+            'margin:0 0 14px 0;font-size:13px;color:#0b2b4b;font-weight:bold;'
+        );
+        info.textContent = 'Date: ' + dateLabel + '     |     Total money: ' + total;
         wrapper.appendChild(info);
 
-        // Table
         const table = document.createElement('table');
-        table.style.width = '100%';
-        table.style.borderCollapse = 'collapse';
-        table.style.fontSize = '13px';
+        table.setAttribute('style',
+            'width:100%;border-collapse:collapse;font-size:13px;' +
+            'background:#ffffff;'
+        );
 
         const thead = document.createElement('thead');
         const headRow = document.createElement('tr');
         ['Name', 'Work', 'Eng', 'Money'].forEach(h => {
             const th = document.createElement('th');
             th.textContent = h;
-            th.style.background = '#0b2b4b';
-            th.style.color = 'white';
-            th.style.padding = '10px 12px';
-            th.style.textAlign = 'left';
+            th.setAttribute('style',
+                'background:#0b2b4b;color:#ffffff;padding:10px;' +
+                'text-align:left;border:1px solid #0b2b4b;font-size:13px;'
+            );
             headRow.appendChild(th);
         });
         thead.appendChild(headRow);
@@ -238,7 +237,6 @@ downloadPdfBtn.addEventListener('click', () => {
 
         const tbody = document.createElement('tbody');
         currentWorkers.forEach(w => {
-            const isDaily = statType.value === 'daily';
             const tr = document.createElement('tr');
             const cells = [
                 w.name,
@@ -249,9 +247,11 @@ downloadPdfBtn.addEventListener('click', () => {
             cells.forEach((val, idx) => {
                 const td = document.createElement('td');
                 td.textContent = val;
-                td.style.padding = '8px 12px';
-                td.style.borderBottom = '1px solid #e7eef7';
-                if (idx === 3) td.style.fontWeight = '600';
+                td.setAttribute('style',
+                    'padding:8px 10px;border:1px solid #cccccc;' +
+                    'color:#1c3a57;font-size:13px;' +
+                    (idx === 3 ? 'font-weight:bold;color:#1b7e4b;' : '')
+                );
                 tr.appendChild(td);
             });
             tbody.appendChild(tr);
@@ -259,15 +259,32 @@ downloadPdfBtn.addEventListener('click', () => {
         table.appendChild(tbody);
         wrapper.appendChild(table);
 
+        // Attach to DOM (hidden off-screen) so html2canvas can measure it
+        document.body.appendChild(wrapper);
+
         const opt = {
-            margin: 10,
+            margin: [10, 10, 10, 10],
             filename: 'worker-statistics.pdf',
             image: { type: 'jpeg', quality: 0.98 },
-            html2canvas: { scale: 2 },
+            html2canvas: {
+                scale: 2,
+                useCORS: true,
+                backgroundColor: '#ffffff',
+                scrollX: 0,
+                scrollY: 0,
+                windowWidth: wrapper.scrollWidth,
+                windowHeight: wrapper.scrollHeight
+            },
             jsPDF: { unit: 'mm', format: 'a4', orientation: 'portrait' }
         };
 
-        html2pdf().set(opt).from(wrapper).save();
+        html2pdf().set(opt).from(wrapper).save().then(() => {
+            document.body.removeChild(wrapper);
+        }).catch(err => {
+            console.error(err);
+            document.body.removeChild(wrapper);
+            alert('PDF generation failed. Please try again.');
+        });
     });
 });
 
@@ -277,6 +294,5 @@ document.addEventListener('DOMContentLoaded', () => {
     toggleStatFields();
     statType.addEventListener('change', toggleStatFields);
 
-    // If weekly, ensure work area is disabled
     if (statType.value === 'weekly') workDesc.disabled = true;
 });
