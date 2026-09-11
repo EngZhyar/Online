@@ -1,0 +1,291 @@
+* {
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Roboto, system-ui, sans-serif;
+}
+body {
+    background: #f4f7fc;
+    margin: 0;
+    padding: 2rem 1.5rem;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    min-height: 100vh;
+}
+.container {
+    max-width: 1300px;
+    width: 100%;
+    background: white;
+    padding: 2rem;
+    border-radius: 32px;
+    box-shadow: 0 20px 40px rgba(0, 20, 50, 0.1);
+}
+h1 {
+    font-size: 2.2rem;
+    font-weight: 600;
+    color: #0b2b4b;
+    margin-top: 0;
+    margin-bottom: 1.8rem;
+    display: flex;
+    align-items: center;
+    gap: 12px;
+    border-bottom: 2px solid #e6edf5;
+    padding-bottom: 0.75rem;
+}
+h1 i {
+    color: #1e6f9f;
+}
+
+/* ---- form grid ---- */
+.form-grid {
+    display: grid;
+    grid-template-columns: repeat(4, 1fr);
+    gap: 1.25rem 1rem;
+    align-items: end;
+    margin-bottom: 2rem;
+}
+.field {
+    display: flex;
+    flex-direction: column;
+    gap: 6px;
+    min-width: 0; /* prevents overflow in grid cells */
+}
+.field label {
+    font-weight: 600;
+    font-size: 0.85rem;
+    text-transform: uppercase;
+    letter-spacing: 0.3px;
+    color: #2c4b6b;
+}
+.field input, .field select, .field textarea {
+    padding: 10px 14px;
+    border: 1.5px solid #cbd8e6;
+    border-radius: 14px;
+    font-size: 0.95rem;
+    background: #fbfdff;
+    transition: 0.2s;
+    outline: none;
+    width: 100%;
+    min-width: 0;
+}
+.field input:focus, .field select:focus, .field textarea:focus {
+    border-color: #1e6f9f;
+    box-shadow: 0 0 0 3px rgba(30, 111, 159, 0.15);
+}
+.field textarea {
+    resize: vertical;
+    min-height: 70px;
+}
+.field textarea:disabled, .field input:disabled {
+    background: #eef3f9;
+    color: #7b8fa1;
+    border-color: #d0ddee;
+    cursor: not-allowed;
+}
+
+/* ---- weekly date field spans 2 columns so the range fits nicely ---- */
+#weeklyDateField {
+    grid-column: span 2;
+}
+
+.date-range {
+    display: flex;
+    gap: 8px;
+    align-items: center;
+}
+.date-range input {
+    flex: 1 1 0;
+    min-width: 0;
+}
+.date-range span {
+    color: #6f8aa3;
+    font-weight: 600;
+    flex-shrink: 0;
+}
+
+/* keep the daily date field the same width as a normal column */
+#dailyDateField {
+    grid-column: span 1;
+}
+
+/* ---- responsive: 2 columns on tablets ---- */
+@media (max-width: 900px) {
+    .form-grid {
+        grid-template-columns: repeat(2, 1fr);
+    }
+    #weeklyDateField {
+        grid-column: span 2;
+    }
+}
+
+/* ---- responsive: 1 column on phones ---- */
+@media (max-width: 560px) {
+    .form-grid {
+        grid-template-columns: 1fr;
+    }
+    #weeklyDateField {
+        grid-column: span 1;
+    }
+}
+
+.action-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 1rem;
+    align-items: center;
+    margin-bottom: 2.2rem;
+    justify-content: flex-start;
+}
+.btn {
+    border: none;
+    border-radius: 40px;
+    font-weight: 600;
+    font-size: 0.95rem;
+    padding: 12px 28px;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    cursor: pointer;
+    transition: 0.15s;
+    background: white;
+    border: 1.5px solid transparent;
+}
+.btn-primary {
+    background: #0b2b4b;
+    color: white;
+    box-shadow: 0 6px 14px rgba(11, 43, 75, 0.25);
+}
+.btn-primary:hover {
+    background: #123a60;
+    transform: translateY(-1px);
+}
+.btn-success {
+    background: #1b7e4b;
+    color: white;
+    box-shadow: 0 6px 14px rgba(27, 126, 75, 0.25);
+}
+.btn-success:hover {
+    background: #14683d;
+    transform: translateY(-1px);
+}
+.btn:active {
+    transform: translateY(0);
+}
+.btn i {
+    font-size: 1rem;
+}
+.result-section {
+    margin-top: 2rem;
+    border-top: 2px dashed #cbd8e6;
+    padding-top: 1.8rem;
+}
+.result-header {
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    margin-bottom: 1.2rem;
+}
+.result-header h2 {
+    font-size: 1.6rem;
+    font-weight: 600;
+    color: #0b2b4b;
+    margin: 0;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.summary-line {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 2rem;
+    background: #e9f2fa;
+    border-radius: 20px;
+    padding: 0.9rem 1.8rem;
+    align-items: center;
+    font-weight: 600;
+    color: #0b2b4b;
+    margin-bottom: 1.5rem;
+}
+.summary-line span {
+    display: flex;
+    align-items: center;
+    gap: 6px;
+}
+.summary-line .money-highlight {
+    background: #1e6f9f;
+    color: white;
+    padding: 6px 18px;
+    border-radius: 30px;
+    font-size: 1.2rem;
+    font-weight: 700;
+}
+.table-wrapper {
+    overflow-x: auto;
+    border-radius: 20px;
+    border: 1px solid #dde7f0;
+    background: white;
+}
+table {
+    width: 100%;
+    border-collapse: collapse;
+    font-size: 0.95rem;
+    min-width: 600px;
+}
+th {
+    background: #0b2b4b;
+    color: white;
+    font-weight: 600;
+    padding: 14px 16px;
+    text-align: left;
+    white-space: nowrap;
+}
+td {
+    padding: 12px 16px;
+    border-bottom: 1px solid #e7eef7;
+    color: #1c3a57;
+}
+tr:last-child td {
+    border-bottom: none;
+}
+tbody tr:hover {
+    background: #f5faff;
+}
+.money-col {
+    font-weight: 600;
+    color: #1b7e4b;
+}
+.empty-row td {
+    text-align: center;
+    padding: 2.5rem;
+    color: #7b8fa1;
+    font-style: italic;
+}
+.download-btn {
+    background: #d32f2f;
+    color: white;
+    padding: 12px 26px;
+    border-radius: 40px;
+    font-weight: 600;
+    display: inline-flex;
+    align-items: center;
+    gap: 8px;
+    border: none;
+    cursor: pointer;
+    transition: 0.15s;
+    box-shadow: 0 6px 14px rgba(211, 47, 47, 0.3);
+}
+.download-btn:hover {
+    background: #b71c1c;
+    transform: translateY(-1px);
+}
+.download-btn:active {
+    transform: translateY(0);
+}
+.hidden {
+    display: none !important;
+}
+.helper-text {
+    font-size: 0.75rem;
+    color: #6f8aa3;
+    margin-top: 2px;
+}
